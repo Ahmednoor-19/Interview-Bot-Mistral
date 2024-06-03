@@ -1,0 +1,1416 @@
+Case Sketch,Interviewer,Interviewee,Client Overview,Client Objective,Key Consideration,Key Points from Conversation,Conclusion,Feedback,Conversation
+Expansion Strategy for QSR into Breakfast Market,Benson,Kenton,The client is a quick-service restaurant (QSR) known for foot-long subs. They are considering entering the breakfast market to increase revenue by 10%,The client is a quick-service restaurant (QSR) known for foot-long subs. They are considering entering the breakfast market to increase revenue by 10%,"1.	Market Analysis:
+•	Size and attractiveness of the breakfast market in the US.
+2.	Operational Considerations:
+•	Changes needed in store operations, sourcing, and menu development.
+3.	Marketing Strategy:
+•	Campaign requirements and associated costs to establish the brand in the breakfast segment.
+4.	Financial Viability:
+•	Assessment of profitability and ability to achieve the target revenue increase.","•	Market Analysis: Kenton aims to size the US breakfast market to assess the opportunity.
+•	Operational Considerations: He identifies the need for changes in store operations, sourcing, and menu development.
+•	Marketing Strategy: Kenton acknowledges the competitive nature of the QSR space and plans to analyze campaign requirements and costs.
+•	Financial Viability: He emphasizes the importance of driving revenue incrementally and profitably.","Kenton proposes a structured framework focusing on market analysis, operational considerations, marketing strategy, and financial viability to assess the client's potential entry into the breakfast market.","Kenton demonstrates a structured approach and critical thinking in analyzing the case. His framework covers key aspects comprehensively, reflecting readiness for consulting roles. Further refinement in communication and presentation skills could enhance impact during client interactions.","Interviewer: welcome Kenton
+
+Interviewee: thanks for having me Me Benson.
+
+Interviewer: are you ready for a case 
+
+Interviewee: yeah 
+
+Interviewer: okay today our case is about a quick service restaurant this particular QSR is known for their foot long subs okay and they're thinking about whether they should break into the breakfast market they've hired our team to help figure out whether they should make the investment on this and so I like you to help us think through this 
+
+Interviewee: okay great I've actually always wondered why a bunch of the sandwich or these Q SRS have never gone into the breakfast space so I think this makes a lot of sense before I jump into all the details can you tell me what are their primary goals with this effort is it just to drive incremental revenue or their other ancillary considerations like staving off competitive threats
+
+Interviewer: hmm good questions first of all the key goal is to increase revenue by 10 percent 
+
+Interviewee: okay 
+
+Interviewer: in terms of your other questions about other ancillary considerations in terms of their competitive set, no one directly who's also QSR restaurant focus on sandwiches is in breakfast right now although obviously there are other Q SRS in the larger category that do offer breakfast 
+
+Interviewee: okay great and when they are launching this initiative is this something that they want to roll out globally immediately or they just focused on a particular market like say the US market 
+
+Interviewer: they'd like to focus on the US for right now if that proves successful they would consider more global or less so for the purposes of this exercise let's focus on the US 
+
+Interviewee: okay great well I've got a bunch more questions but I'd love to just take a moment to gather my thoughts before we get started is that okay 
+
+Interviewer: sure okay 
+
+Interviewee: okay great so this is a really interesting case I think you know the key question is really can this particular QSR drive 10% incremental revenue by breaking into the breakfast category and to analyze that what I'd like to do is look at four key things
+
+Interviewer: okay 
+
+Interviewee: so the first is I want to size the overall breakfast market in the US because that's the market we're concerned about and just understand you know how robust is that market how attractive is the opportunity that the second thing I wanna look at is the operational considerations for the client so you know if they go into breakfast for the first time I guess it opens stores earlier they're gonna have to source new raw materials create new menu items there's a lot of things are going to need to look out there that I'd love to dive into and then the third thing is marketing so the quick service restaurant space is famously competitive there's a lot of established brands in it and so what I'd love to do is spend some time thinking about what type of campaign would they need to run to actually establish themselves how much would that cost and get a sense for that and then fourth kind of tying everything together the fourth bucket is really just looking at the financials can they drive an incremental 10% revenue and importantly can they do that profitably so that they can actually add to the bottom line when doing this as well so that's the framework I'd really like to use to analyze us .
+Interviewer: okay that sounds great .
+Interviewee: great."
+Swift Fox Population Decline,James,Hassan,The Canadian Wildlife Federation (CWF) is a government-affiliated non-profit organization aiming to educate Canadians about wildlife conservation. They seek to understand and address the dramatic decline in the swift fox population.,"1.	Identify the causes of the swift fox population decline.
+2.	Develop strategies to mitigate the decline and promote population growth.","1.	Population Analysis: Evaluate factors influencing birth rates, mortality, and migration patterns.
+2.	Disease Impact: Investigate the prevalence and effects of gastrointestinal disease on the swift fox population.
+3.	Gender Disparity: Address the imbalance in male and female swift fox populations and its impact on breeding.
+4.	Comparative Analysis: Benchmark swift fox populations against other countries and species affected by similar issues.","•	Population Dynamics: Hassan analyzed birth and death rates, identifying disease as a significant contributor to the decline.
+•	Disease Analysis: He discussed the impact of gastrointestinal disease on swift fox mortality rates and proposed further investigation into potential solutions.
+•	Gender Disparity: Hassan highlighted the gender imbalance and its implications for breeding success, suggesting strategies to address this issue.
+•	Comparative Analysis: He suggested benchmarking swift fox populations against other countries and species to gather insights into effective conservation strategies.",Hassan demonstrated a thorough understanding of the factors influencing the swift fox population decline and provided actionable recommendations to address the issue. His analytical approach and strategic insights align with the CWF's objectives for conservation efforts.,"Hassan effectively communicated his analysis and recommendations, showcasing his ability to tackle complex conservation challenges. His proposed strategies for disease management and population growth reflect a comprehensive understanding of wildlife conservation principles. However, he could further explore comparative analysis to glean insights from similar conservation initiatives globally.","Interviewer: Welcome to the firm Hassan.
+Interviewee: Thank you, thank you for having me Mr. Dumbledor.
+Interviewer: All right so we're just gonna start off with the case why don't I just launch into the prompt.
+Interviewee: Yeah, absolutely.
+Interviewer: So your client in this case is the Canadian Wildlife Federation, otherwise known as the CWF. This is a government affiliated non-profit organization which aims to educate Canadians about wildlife and promote responsible human actions and conservation. They've contacted your firm to help them figure why one particular endangered species population, the swift fox, has been declining dramatically and what they can do to stop it from declining any further.
+Interviewee: Interesting, that's too bad for the swift fox.
+Interviewer: Yeah, yeah, this sounds like a pretty dramatic decline in their population.
+Interviewee: Oh, yeah, well, that's, really too bad.
+Interviewer: So my question for you Scott, is how would you think about solving this problem?
+Interviewee: Great, before we dive too far, into how we wanna think about solving this. I just wanna make sure I've captured everything and clarify a couple points before.
+Interviewer: Yeah, of course.
+Interviewee: We go too much further.
+Interviewer: Of course.
+Interviewee: So as I heard it, I'm here today dealing with Canadian Wildlife Federation. And they've been struggling with a declining population of the swift fox. And really, we're just here to answer what's been causing this decline in the swift fox population.
+Interviewer: That's right.
+Interviewee: Okay, great, so just to set a bit more context, talking about the swift foxes. How long is this decline been going on? And how much of the population has actually been lost?
+Interviewer: Yeah, I know, it's a fair question. So actually, it looks like historically, the populations have been stable up until the last year.
+Interviewee: Okay.
+Interviewer: So it's really a very recent decline.
+Interviewee: Oh, wow, interesting. That's very interesting, do we have any numbers as to how much this is declined or anything like that?
+Interviewer: So what I've got is that we have 5000 today.
+Interviewee: Okay.
+Interviewer: And a year ago is 6000.
+Interviewee: Oh, wow, okay, that's a pretty meaningful decline.
+Interviewer: Yeah.
+Interviewee: 15, 17% let's talk about objectives a little bit before we get too far into this as well.
+Interviewer:  Yep.
+Interviewee: Is there any sort of target level and wanting to get the population back to or time window we're looking to achieve this in?
+Interviewer: I mean, this is less about targets is sort of what are we gonna achieve?
+Interviewee: Yeah.
+Interviewer: And more about let's just do what we can do to address this decline, right? So I don't think that they have a target number in mind.
+Interviewee: Okay.
+Interviewer: But as soon as possible, let's understand what's going on and then we can move to figuring out how to address it.
+Interviewee: Okay, okay, so this is more of a diagnostic exercise than let's get to really. 
+Interviewee: Yeah, exactly.
+Interviewee: Okay, great, I think I've got all I need right now. If I just take a quick minute here and structure on my thoughts.
+Interviewer: Perfect, please do.
+Interviewer: How are we doing Scott?
+Interviewee: Doing just great, so let me share with you how I'm thinking about this.
+Interviewer: Okay.
+Interviewee: So the way I see it is that in order to answer what's been causing this decline in fox population, it's a matter of a formula of three key things, births, deaths, and what I'm calling departures.
+Interviewer: Okay.
+Interviewee: So within births, I really just wanna look at how many foxes are being born year to year. And how is that change? Has there been a decline in the number of foxes being born every year? Or is that been stable? And then the other side of it is the death. So this is a subtraction from the population. And this I'd really looked at it in three categories. So deaths, natural death, so those are associated with just age and other factors like that. Disease related, which, I mean, it's self explanatory.
+Interviewer: Of course.
+Interviewee: How many deaths are related to disease. And is there been a change in that in the last year or so?
+Interviewer: Yeah.
+Interviewee: And the final death related death bucket would be hunting. So sort of the human element.
+Interviewer: Sure, of course.
+Interviewee: How many foxes are being hunted every year? That's a factor at all. My sense is that they're endangered so that's probably not an issue. And then the last one is departures.So thinking about maybe humans have forced them out of their natural habitat. And to force them somewhere else, they're not necessarily declining in total numbers. They're just declining in the region that we're looking at.
+Interviewer: So it's more in our counting of the ones that are around rather than where they're actually declining in terms of deaths so they're not being born as well.
+Interviewee: Exactly, exactly.
+Interviewer: That seems like a pretty complete list Scott, is there anything in particular now that you would focus on?
+Interviewee: Yeah, so for me, the place I'd wanna start actually is looking at deaths. My thinking here is around the disease or the hunting component in hunting, maybe less so. But I think I wanna focus first on disease, especially given the timeframe of this being just one year and try to understand if there's been some new disease that's cropped up, or any other factor that's caused an uptick in the number of deaths.
+Interviewer: Okay, perfect, let's jump into it.
+Interviewee: Let's do it. Okay, so let's talk first about the diseases. So, in the past year, two years, has there been any meaningful disease that's appeared in swift fox population that something we should know about?
+Interviewer: You know, the one thing that I see is that there is this deadly gastrointestinal disease that affected a bunch of forests of Canada, including the habitat of the swift fox.
+Interviewee: Oh, interesting.
+Interviewer: Now, we don't have any data or any information as to whether or not that's affecting the swift fox in particular.
+Interviewee: Okay.
+Interviewer: But that type of animal seems like it's been suffering from this thing.
+Interviewee: Okay, interesting, interesting. Well, you mentioned that we didn't have any specific data pertaining to that. So I'll just leave it there as sort of a placeholder. Something interesting to keep in mind. So still along the death, increasing deaths
+Interviewer: Yep.
+Interviewee: The other factor is the natural deaths. And I'm just curious about the the life expectancy of fox. And if there's been any meaningful change in that in the recent history.
+Interviewer: You know, from what we see, we don't really see any real difference in life expectancy in terms of what has changed the last little while not really no.
+Interviewee: Okay, so no real change. So with that in mind it feels to me a little bit like deaths is not the avenue that work in fine, too much useful information on at least at this point. So I think it's time to maybe pivot to another piece of this, which is talking about the number of births every year so let's talk about births for a little bit if that's okay with you. So I'm curious, how many foxes are, excuse me how many foxes are born every year? How many pups can be born to a female in their lifetime?
+Interviewer: That's a good question, let me see what the facts I have here. So, the way that they measure these are in litters.
+Interviewee: Okay.
+Interviewer: So the average fox litter is one and a half foxes.
+Interviewee: Okay.
+Interviewer: And that's a once yearly thing.
+Interviewee: Once yearly.
+Interviewer: Yeah.
+Interviewee: Okay. Interesting, interesting and that's per female, obviously, it seems like a lot of foxes, oh my goodness. Okay, so that gives us a sense of how many foxes can potentially be born. And I guess the way to sort of quantify that is to think about how many females there are in this population. Other that, and the ones, that can be born. So my assumption is that of this 5000 population that a half are females is that a fair assumption?
+Interviewer: Yeah, that's fair, although we have actually some data that I can show you.
+Interviewee: Oh Okay.
+Interviewer: Let me show you a couple of exhibits.
+Interviewee:Okay.
+Interviewer: And I'd love to hear what you have to say or what you see there.
+Interviewee: Oh, interesting, okay, do you mind if I just take quick second as to.
+Interviewer: Sure sure, don't take too long because I'd like to get kind of your first impressions early on.
+Interviewee: Yeah, absolutely.
+Okay, so what I'm seeing here is that basically, the fox population is broken into four regions split by this highway. But the populations aren't split equally. And it seems like there's actually a very unbalanced gender well, there's the genders are not balanced, could be lead to fewer births. And the other piece that I'm noticing is the incidence, the percentage of population that's affected by disease. Some of them are quite meaningful. However, at first glance, I don't see a real correlation with the male, female or even the size of the population. But this is still probably a meaningful number in terms of how many foxes are being are dying to young.
+Interviewer:  Yeah.
+Interviewee: But what this is really telling me at first is there's not enough, there aren't enough pairs or mating pairs to be able to potentially replace all the foxes that need to be replaced.
+Interviewer: Yep.
+Interviewee: And also the split in population by this highway might mean that migration between to help find a mate is also not possible because they would have to cross the highway.
+Interviewer: Yeah, there seem to be some pretty big skews between the female and male population.
+Interviewee: Yeah, absolutely, absolutely. You know, just at first glance, without diving into too much detail, it seems like there's almost like a 60/40 or 65/35 type split between females versus males, which is quite interesting.
+Interviewer: What do you think might be causing that?
+Interviewee: That's interesting, you know, why would there be more females than males? My instinct would be to say that it's sort of caused by one of two things. One being this diseases affecting males, more than they affect females, and the other would be some other human related factor like females, or excuse me, males are being hunted for some other specific reason or more of a prey of some other animal. So some other imbalance there. However, my first hypothesis about the diseases doesn't seem to hold much merit given the correlation between the percentage of females and percent of population affected by disease.
+Interviewer: Yeah.
+Interviewee: Doesn't quite.
+Interviewer: Yeah, it doesn't seem to be a clear line, yeah.
+Interviewee: So my hunch is more along the lines of some sort of human interference. But that's just what would affect the population skew. And I think it's important that we tie this back to what we were initially trying to figure out is what's been causing this decline? So where I'd really wanna take this next, I think, is to look at how many going back to my initial structure here, thinking about how many babies are born every year? 
+Interviewer: Yeah.
+Interviewee: Minus how many are dying by natural causes and disease, which looks impactful?
+Interviewer: Yep.
+Interviewee: And then I can probably remove this department and then from this, we can probably get a good estimate as to how much we expect our population to change.
+Interviewer: Yep.
+Interviewee: Or in the next year or the years following.
+Interviewer: Yep.
+Interviewee: Does that make sense to you?
+Interviewer: Sure, yeah, and actually, I mean, this lines up pretty well for the clients interested in knowing.
+
+
+Interviewee: Okay, great.
+Interviewer: And so what they've asked is that they said, Impact of disease and gender disparity you know, the entry by what are yours you're finding in these exhibits, and they're really curious how impactful both the disease and gender disparity have been on the overall population. Most specifically, what they're interested in knowing is how much would you expect the population decline based on these two issues in the next year?
+Interviewee: Okay, so basically, the way I'm thinking about this is taking it right back to my initial structure, but quantifying it.
+Interviewer: Right.
+Interviewee: So starting first with the number of births Calculating numbers that we'd see every year minus the number of deaths by natural and disease.
+Interviewer: Yep.
+Interviewee: So within births, the way I'm thinking about it is looking at how many mating pairs can possibly there possibly can exist, which is based on the fraction of the population.
+Interviewer: Yep.
+Interviewee: And I'll call it the limiting gender.
+Interviewer: Yep.
+Interviewee: So whichever one has a smaller percentage, and then going back to the how many cubs they can have in a single litter. So that'll give us the number of births we can expect a year. And then to the death side, it's basically just a sum of how many natural deaths we would expect is based on their life expectancy. And then the disease which is again based on the life expectancy by those infected. So maybe let's start first with births and there's a couple pieces of information that I'm gonna ask you for.
+Interviewer: Sure of course.
+Interviewee: Before we start calculating things. So you mentioned before that the each female fox can expect to have 1 1/2 cubs 1 1/2 pups
+Interviewer: Yeah. - per year.
+- Yeah, it's about the terminologies, but yes, you're right. That's in it, so, mating season is once a year right?
+Interviewee: Okay.
+Interviewer: But pairs only mate once every five years.
+Interviewee: Okay, interesting, interesting. So that's 1 1/2 pups every five years. Timing of mating
+Interviewer: That's right.
+Interviewee: Interesting, okay. 
+Interviewer: And a swift fox will choose like one mate for life really?
+Interviewee: Okay, okay, that's important as well.
+Interviewer: And their life expectancy is 10 years.
+Interviewee: Okay. Okay, so all this stuff will be extremely helpful to help me calculate this. But actually, the first thing I need to do is to figure out how many mating pairs that are every year. So I'm gonna go back to this table and start putting some numbers to it.
+Interviewer: Before we jump into that, just thinking back to your original structure.
+Interviewee: Yeah.
+Interviewer: You had this migration question there.
+Interviewee: Yeah.
+Interviewer: Where are you on that, what is your thinking?
+Interviewee: Well, my thinking is that this, just looking at this exhibit here, migration might be a lot more limited, given the highway splitting these two groups. But you're right, that's a good push that maybe it's something that we're missing here is let's bring that back into this equation and see if it's, impactful.
+Interviewer: No, I think I mean, I actually think it's fair for you to assume that there's a zero there, right? I just wanna make sure that we're not losing that in the equation, because maybe we'll come across some facts, but based on what we understand so far, there's nothing to worry about.
+Interviewee: Okay, great, great, great. So I'm gonna leave that out of the formula and we'll keep going on with this. So let's first figure out how many mating pairs are out here. So know that group A, B, C, D. Group A, has quarter of the population, our population is 5000. Right, so our population, total population, there's 1250, and then we care about the limiting population for mating pairs, which is 10% of the males, which means we can only have 125 mating pairs every year.
+Interviewer: Right, now I see what you're doing, yes, that makes a lot of sense.
+Interviewee: Okay, great. So let me just sum these all up, and we'll keep going. So the next population is group B eight of our population. So that's gonna be 625, it's that right, sorry about take this six here 625 is correct, and our limiting population again, is the male 30% of this, so that's about 100 and I'll call it 190, is that okay with you if I.
+Interviewer: Yeah, that's fine.
+Interviewee: Okay.
+ Interviewer: You can even go 200 works for me,
+Interviewee: Sure, let's do that make my life a little bit easier.
+Interviewer: Well, okay. 
+Interviewee: The next population is three of this so 1875. And well, populations evenly split so we can have half that number of mate pairs. So that's 937. So let's call 940.
+Interviewer: Sure.
+Interviewee: And our last group, group D another quarter so 1250, or limiting population is the males again, which brings us to four times that is 500. So this is the total number of mating pairs that we have per year.  And we can tie this back into our formula to get how many pups that would be in a single year. So 125, 200, so 325, eight plus 500 would be 825 plus another 940 is 1765. So that's how many mating pairs we can have any year.
+Interviewer: Yeah.
+Interviewee: And let's bring it back to our original formula. Get another page; this is getting a little messy. So we have 1765 mating pairs. How many breeding pairs? You said that there were 1 1/2 cubs per pair. And they mate once every five years. So this is over five.
+Interviewer: Right.
+Interviewee: So let me make my life a little bit easier here and I'll call it 1765 divided by times point three, excuse me.
+Interviewer: Why are you doing that?
+Interviewee: 1.5 divided by five.
+Interviewer: Perfect, okay.
+Interviewee: Okay, and then this just means 30% of this. Do you mind if I round this to 1800?
+Interviewer: Yeah, that's fine.
+Interviewee: So that's 180 times three, which is 300 plus another 240. So 540. That's how many pups we can expect to be born every year. Okay, so that's one side of our equation. Now let's get the other side, which is deaths. So the first piece we talked about was natural, and you gave me a piece of information saying that life expectancy was 10 years, which is perfect. So we know that we have our... Oh, you know what? I was just about to skip a step here, but I'm realizing that we need to segment out these ones. So let me go back here and make sure I separate out those affected by disease. So let's go back to these percentages here. I'll make this disease. So 25% of our quarter, which was 1250. So a quarter of 1250 would be about 315-ish.
+
+Interviewer: So what are you trying to do now? You're trying to carve out the effect of disease on the birth population, is that right?
+
+Interviewee: No, I'm actually thinking about this from the death perspective.
+
+Interviewer: Okay.
+
+Interviewee: My assumption is that those diseased can still mate, but the issue here is that those diseased have a shorter life expectancy. Or, my guess is they have a shorter life expectancy, which is actually some piece of information that I haven't got from you yet. So I'll probably ask you that now. So, disease. What's the impact on their life expectancy?
+
+Interviewer: Kills in a year?
+
+Interviewee: A year, okay. So that's important. It's a good thing that I was starting to do this because you're going to need this information anyway. So what I'm doing here is figuring out how many are diseased.
+
+Interviewer: Yep.
+
+Interviewee: To subtract from the whole population because they won't be affected by this 10-year life expectancy like the remainder of the undiseased population. So let me continue on with this. The next population is Group B, which is an eighth of 625 and 40% are diseased. Let's call it 63 again. So 40% of those 240... 252.
+
+Interviewer: Say 250 is fine.
+
+Interviewee: Okay, so 250 are diseased. Group C, 1875, 10% are diseased. That makes my life easy. Call it 188. And the last one is 5% of this 1250, which means 125. 60 to 62.5... Let me just make it 62 and it'll make my life easier.
+
+Interviewer: Yeah, sure.
+
+Interviewee: So this is 565 plus another 190 and 62. So that's 815. That's the number that are diseased. Okay, so that means just from disease alone, we're going to be losing 815 per year. Let's start this sum here. So births, population decline. Just... I'll call this natural, diseased.
+
+Interviewer: That's good.
+
+Interviewee: So births, we have 540. Diseased, we have 815, which is quite meaningful. And natural, we have the remainder of this 5000, less 815, which is 4185. And 10-year life expectancy. So that means, assuming that it's an even population distribution...
+
+Interviewer: Right, that's fair.
+
+Interviewee: ...that we're going to lose about 420 of those every year. So let's bring this all together here. What we're doing here is just simulating the rest to see our population change. So 540 births, minus 420 natural deaths, equals 120, minus another 815, which would be around 20. So that would be 700, isn't it?
+
+Interviewer: 695.
+
+Interviewee: 695. And that's a negative population decline every year.
+
+Interviewer: Yes.
+
+Interviewee: So what this is telling me is that on our 5000, we're losing 695 a year. That's about 14% of our entire population in just a single year. But more importantly, is that we're having more diseased-related deaths than we have births. And actually, the births could cover natural deaths if disease didn't exist, and we'd actually be recovering a little bit, right? So for my next step, I would be to look at the causes of this disease and if any cures exist out there that we could look at, and start thinking about how we can implement these cures to try and reduce the number of diseased. But on the other side, we could also look at boosting the number of births, right? Because we saw before that there's a gender imbalance. There might be an opportunity to either try and rebalance the population between these groups by physically moving them around or potentially introducing other fox populations that are bred outside of this environment just to try and boost the birth numbers to maybe grow the population a little quicker. So yeah, that's the way I would think about this.
+
+Interviewer: Are there any further analyses you'd want to do? Is there anything more you'd want to look at if you had a little bit more time on the project?
+
+Interviewee: I mean, absolutely. The biggest element is the disease we talked about just briefly right now. But all we know about it right now is that it's gastrointestinal. So I'd be really interested to look at if there are other populations that have been affected by this disease and if they were able to eradicate it, just to really identify what we could potentially be doing for these foxes. But that's just on one side of it. The other piece is on the births, which we just talked about a little bit more in detail right now. So, I mean, there's a lot more analysis I'd like to do on that.
+
+Interviewer: Yeah.
+Interviewee: But yeah, that's where I sort of want to take this next.
+
+Interviewer: Maybe there's also like a general benchmarking against fox populations in other countries, right?
+
+Interviewee: Oh, it's a good point.
+
+Interviewer: Maybe I don't know what the comparable countries would be. What comparable countries do you think there would be?
+
+Interviewee: With swift foxes? I guess for the Canadian Wildlife Federation, so my instinct is to think, you know, an environment that looks the same, something like the US might have parks with similar swift fox populations, maybe some European countries, something like that. But that's just looking directly at swift foxes. So it might be interesting also to look at populations of other species, maybe similar, maybe not, that were affected by a similar disease, just to see if they were able to correct the situation, and if so how? Just to give us some ideas.
+
+Interviewer: Cool, and as you're doing this analysis, actually, it turns out that the chairman of the Canadian Wildlife Federation has an upcoming public statement.
+
+Interviewee: Oh, wow.
+
+Interviewer: I'd like to include a few pieces of insight that you've generated from the work you've done to update the local communities and the plans to save the swift fox.
+
+Interviewee: Okay, great.
+
+Interviewer: She's asked you to provide a sort of a 30-second synopsis of your key findings so that she can share those in her public statement. What would you suggest that she say?
+
+Interviewee: Okay, great. Well, first thing we set out just to identify what the cause of this was. And what we found is that it's a combination of too few births and too many deaths related to disease. So my recommendations are two things. First, is to investigate the causes of these diseases and search for solutions of how to correct it in the long run. And the second is to look at means of increasing the number of births. We saw that births are actually about 250 less than the number of disease-related deaths, and we'll never be able to recover the population in this manner. So my next steps are investigating further the root causes of these diseases, potential cures, potential implementation plans of how we could roll out this cure. And the second piece would be related to the births, to investigate further how you can potentially rebalance the gender imbalance that exists in this environment right now.
+
+Interviewer: That will be all. Thank you.
+Interesting: The pleasure is mine. Thank you as well."
+Entry into U.S. Beer Market for XYZ Beverages,Asad,Saliah,"XYZ Beverages is a major manufacturer and retailer of non-alcoholic beverages, with annual revenues of approximately $30 billion and an operating margin of around 30%. They are considering entering the U.S. beer market to achieve profit growth.",To increase annual profits by $5 billion within five years.,"1.	Market Analysis: Assessing the size and attractiveness of the U.S. beer market.
+2.	Financial Viability: Analyzing the profit margins and potential profitability of entering the beer market.
+3.	Barriers to Entry: Identifying challenges and competition in the beer market.
+4.	Production Synergies: Examining potential synergies between non-alcoholic beverage production and beer brewing.","•	The U.S. beer market size is estimated at $90 billion, but profit margins are lower (10%) compared to XYZ Beverages' overall operating margin (30%).
+•	Significant barriers to entry exist in the beer market, including intense competition and the need for brewing expertise.
+•	Limited production synergies between non-alcoholic beverages and beer production further discourage entry.","Saliah recommends against XYZ Beverages entering the U.S. beer market due to lower profit margins, high competition, and lack of production synergies.","Saliah effectively analyzes market dynamics and financial implications, providing a structured rationale for the recommendation. Further analysis could confirm the feasibility of achieving profit growth targets in the beer market.","Interviewer: Hello Saliah. How are you today?
+Interviewee: Hello Asad. Happy to be here. Thanks for asking.
+
+Interviewee : Our client is a large manufacture and retailer of non-alcoholic beverages such as sodas, juices, sports drinks, and teas. They have annual revenues of roughly thirty billion dollars and an operating margin of roughly thirty percent. Our client is looking to grow and is considering entering the beer market in the United States should they enter ?
+
+Interviewer : To make sure I understand correctly, your client is a large manufacturer and retailer of non-alcoholic beverages. They are looking to grow and their objective is to determine whether or not they should enter the U.S. beer market. Is your client looking to specifically grow revenues or profits?
+
+Interviewee : Our client wants to grow profits.
+
+Interviewer : Is there a particular financial goal or metric your client is trying to reach within a certain time frame?
+
+Interviewee : They are looking to grow annual profits by five billion dollars within five years.
+
+Interviewer : Would you mind if I take a few minutes to structure my thoughts and develop a framework to tackle this case?
+Your framework makes sense to me. Why don't we start by estimating the size of the US beer market?
+To start, I'd like to look into the beer market attractiveness. I'd like to first understand the market size to determine if the beer market is an attractive market.
+What is the market size of beer in the U.S.?
+
+Interviewee : Given that our client has annual revenues of thirty billion dollars, a ninety billion dollar beer market represents a massive opportunity. The market size makes the beer market look attractive, but I'd like to understand if your margins are typically high and determine how much market share our client could realistically capture.
+
+Interviewer : Assume that a 12 ounce can of beer sells for $2 on average. To produce a keg of beer, it costs $100 for raw materials, $95 for labor, and $75 for storage. If a keg of beer holds 1,800 ounces of beer, what is the profit margin for beer?
+
+Interviewee : Compared to our client's overall operating margin of 30%, the beer market profit margin of 10% is significantly lower. Although the market size for beer is large, the low margin makes the beer market less attractive.
+
+Interviewer : What are the barriers to entry in the beer market?
+Do you think there are significant production synergies in producing non-alcoholic beverages and producing beer?
+
+Interviewee : Production involves equipment, raw materials, and labor.
+
+Interviewer : Let's say you bump into the CEO in the elevator, and he asks for your preliminary recommendation. What would you say?
+
+Interviewee : I recommend that our client should not enter the beer market for the following three reasons:
+ First, although the market size is fairly large at ninety billion dollars, the margins for beer are just 10%, significantly less than our client's overall operating margin of 30 percent. 
+Second, the beer market is very competitive in all segments, with market share concentrated among a few players, implying high barriers to entry. Our client lacks beer brewing expertise to produce a great product to compete with the incumbents. 
+Third, there are not many production synergies that our client can leverage with its existing products. Our client would need to buy new equipment, source new raw materials, and provide new training to employees, which would be time-consuming and costly. 
+For next steps, I want to look into our client's annual expected profits if they were to enter the U.S. beer market. I hypothesize they will be unable to achieve an increase in annual profits of two billion dollars within five years, but I'd like to confirm this through further analysis."
+Expansion Strategy for FoodCo,Lee,Eric,"FoodCo, a multi-billion dollar company with leading brands across various food categories, is interested in entering the alternative milk market. They believe this market segment is rapidly growing and presents attractive opportunities for expansion. FoodCo has partnered with Ban Consulting to determine the most effective strategy for entering this market.","Evaluate the feasibility of entering the alternative milk market.
+Assess potential targets for acquisition or partnership.
+Develop a strategic plan for market entry, focusing initially on the U.S. market.
+","Market Analysis: Understand the dynamics and growth prospects of the alternative milk market.
+Target Identification: Assess potential targets based on market share, profitability, and growth tra-jectory.
+Strategic Roadmap: Develop a plan for market entry, distribution channels, and product positioning.
+Financial Viability: Determine the investment required and projected ROI for the chosen strategy.","Market Analysis: Alternative milk segment is growing rapidly, contrasting with the declining tradi-tional milk market.
+Target Identification: Smilk, with a 6% market share and strong profit growth, emerges as a potential acquisition target.
+Strategic Roadmap: FoodCo is primarily interested in entering the U.S. market and achieving signifi-cant profit growth within a five-year period.
+Financial Viability: Smilk aims for a 6X increase in profit over the next five years, posing a challenge for achieving FoodCo's objectives.
+","Eric demonstrated strong analytical skills and strategic thinking, aligning recommendations with FoodCo's objectives. He identified key market trends, evaluated potential acquisition targets, and proposed a strategic roadmap for successful market entry. However, achieving the ambitious profit growth target poses a significant challenge that requires further analysis and consideration.","Eric effectively analyzed the case, demonstrating readiness for consulting roles. His insights into market dynamics and strategic considerations were commendable. However, he could enhance his presentation skills for clearer communication of recommendations and their implications. Overall, Eric's performance suggests he is well-suited for consulting roles requiring analytical rigor and strategic thinking.","Interviewer: hi eric great to meet you 
+Interviewee: hi Lee. great to meet you too.
+Interviewer:  so glad to have you here today
+Interviewee: excited to be here a little nervous but excited 
+Interviewer: yeah, how are you doing just more generally
+Interviewee: I’m good, I’m good, yeah office is beautiful everybody’s been great so far and just excited to get going with the case
+Interviewer: I’m so glad well I’ll be the one pushing us along don’t worry If I finish us up move us to another area, I’ll be in charge in terms of the time management
+Interviewee: Good to know thank you
+Interviewer: great so should we jump in 
+Interviewee: yeah, let’s do it 
+Interviewer: so, let me give you a little bit of the context of the case now one thing I love about this one is I do all consumer products and retail work for you know my normal job here at ban so this is one of those consumer products types of cases and it’s based off of a real ban case 
+Interviewee: okay
+Interviewer: so let me give you a little bit of the situation we’re going to blind all of the company names for the purposes of confidentiality so our client is foodco there are a multi-billion dollar client that has leading brands across many different food categories right now they’ve narrowed in on the alternative milk category they believe it’s growing quickly  has some attractive elements to it and alternative milk you can define as anything that’s non-diary plant-based so things like almond, oat, coconut, soy you name it all goes within alternative milk 
+Interviewee: I think I used almond in my latte in this morning
+Interviewer: so, there you go so you’re familiar
+Interviewee: already
+Interviewer: already, they’ve partnered with ban to determine how they want to enter and whether or not they thing this asset is the right way to enter the space 
+Interviewee: okay
+Interviewer: because they are pretty familiar with this market, they’ve narrowed in on a target named Smilk and smilk in terms of its profile it’s pretty attractive profile that’s why they’re interested in it
+Interviewee: okay
+Interviewer: to give you some facts on it, it has over the past three years been doubling its profit each year
+Interviewee: oh wow! It’s impressive
+Interviewer:  very very strong performance overall. It has about 6% share of the alternative milk market 
+Interviewee: okay
+Interviewer: and um is expected to grow to 8% 
+Interviewee: okay so moderate modest growth 
+Interviewer: right, now this smilk has been able to expand across Europe and the U.S but foodco for this particular piece of work is only interested in the U.S market
+Interviewee: okay, good to know
+Interviewer: so, we’ll be focusing on that now here’s the real complicating element of it they expect that smilk should be able to increase its profit by 6X over the next five years
+Interviewee: okay
+Interviewer: so, as we think about this overall, I’d love to have you tell me a little bit about how you would approach assessing this question and in particular we need to understand whether or not this 6X profitability growth is feasible 
+Interviewee: okay great, I think I understand the situation. Can I ask a couple clarifying questions.
+Interviewer: sure, absolutely
+Interviewee: awesome. I imagine they have different business units like almond, soy, oat any gaps in their portfolio that should be aware of
+Interviewer: not that it’s relevant to the case currently.
+Interviewee: okay, gotcha. And then finally just in terms of understanding does foodco have any other specific acquisition thesis that should be aware of any metrics that they want to hit or is just board assessment get our opinion whether it’s good or not.
+Interviewer:  you know that’s a good question so mostly they’re focused on whether or not they can achieve the profit
+Interviewee: okay
+Interviewer: but what’s equally important is thinking about share and the trade-offs between the two of those
+Interviewee: okay, awesome. I think I understand the problem excited to get into it you might have to take a couple moments to structure my thoughts.
+Interviewee: awesome so, as I think through this problem of how to assess uh smilk from foodco perspective and think through whether the profitability target is achievable, yeah (by interviewer) there’s really three buckets that I want to look into. First is alt uh milk market itself
+Interviewer: great
+Interviewee: second is a deep dive into smilk and their internal operations 
+Interviewer: perfect
+Interviewee: and then finally I have other considerations and rest that I want to look at 
+Interviewer: great. Before we jumping into your framework can you tell me why you thought about these three as being the main buckets that you wanted to focus on
+Interviewee: I want to start by analyzing the market, a crucial step in any acquisition or investment. It's important that the asset is positioned in a favorable, growing market with both tailwinds and headwinds. Once we're confident in the market's potential, we'll assess if Smilk is well-positioned within it to succeed in capturing, sharing, and growing revenue while reducing costs. Then, we'll consider deal-specific risks like financing options and Smilk's current debt situation, which could impact ROI and opportunity costs. We'll explore various market entry strategies, such as joint ventures or organic growth, to maximize success. Finally, we'll prioritize cultural alignment to ensure a smooth transition. If there are no further questions, I propose we test the hypothesis that acquiring Smilk aligns with FoodCo's goals, aiming for a 6X profit increase over the next 5 years. Our first step will be analyzing the alternative milk market, ideally broken down by segment.
+
+Interviewer: Perfect. Is that where you'd like to start?
+
+Interviewee: Yes, it would be great.
+
+Interviewer: And then after we look at that what are the most important elements within smilk?
+
+Interviewee: So within smilk what I would love to understand is looking at their historical performance broken out ideally by business unit um the reason I want to look at that is to get a sense of how they've gotten to where they are today I know that they have doubled profit every year for the past three years which is really incredible growth right and obviously there's multiple ways that they could do that they could be gaining market share they could be introducing new products or they could be cutting cost or some combination of all of that and I think how they've gotten to where they are today will give us a good insight into what future growth opportunities they might have and help us to get a really good understanding of whether or not that 6X Target is achievable.
+
+Interviewer: Fantastic, I like how you're thinking about it. I also like how you're bringing it back to the objective around this 6X. So let's start where you suggested.
+
+Interviewee: Okay.
+
+Interviewer: And I have a slide here that gives you a picture of the market. I would love for you to tell me what does this tell you about the Dynamics of the milk Market.
+
+Interviewee: Okay, if I can just take a couple moments to orient myself so what I'm seeing is a chart of kind of the US milk sales over the past 10 years forecasted uh into the future for 5 years from now and the first thing that immediately jumps out to me is you can see that the overall Market has been in Decline and forecasted going forward it's at best going to remain roughly flat.
+
+Interviewer: That's right.
+
+Interviewee: So from the overall perspective not great but what is exciting for smilk is when you do a deep dive into the alternative milk segment that is actually expected to grow and and quite considerably over the next 5 years a low double-digit ker is actually pretty exciting to me and so feeling feeling good about that and looking closer at the data row I'm seeing some numbers that we can manipulate in order to get a sense of exactly what the size of the alt milk Market is today and then what it's going to grow to five years from now which I think will be a good starting point to help us understand the feasibility of the 6X Target.
+
+Interviewer: Agree, let's go ahead and do that okay.
+
+Interviewee: So, to combine these variables, we multiply today's alt milk share by the overall market size, giving us the alt milk market value today. For example, 19 billion times 11% equals roughly 2.1 billion today. In five years, with 19.2 billion times 20%, we get around 4 billion. This gives us a sense of what's achievable if alt milk maintains its market share. It's exciting, doubling in size, but falls short of the 6X target. I still see potential for FoodCo's acquisition, but I'm more cautious about hitting the 6X profit target. To assess achievability, I'd like to review smilk's internal financials and see how they've grown compared to market expectations.
+Interviewer:great okay let's go ahead and do it 
+Interviewee: So um, we know that, go ahead and transfer over here. Market 5 years from now is going to be 4 billion and they're going to have 8% share, which translates to $320 million in revenue. So just from that, if they keep the 10% profitability margin, that means that they are getting to 32 million, so that's good like we've already talked about but it is still
+
+Interviewer: A far cry.
+
+Interviewee: $40 million short. We need to more than double this. Let's go find how we might do that. So from the revenue market share perspective, and then looking at it from the profitability perspective. When I look at how much they would need to achieve, we'll solve backwards here. So we know that they need 72 million if we are going to assume the 10% profitability. That's simple math. We know that they need to grow to $720 million of revenue.
+
+Interviewer: Right, at that profit level.
+
+Interviewee: At that profit level, that seems like quite a bit. If we go ahead and figure out what that implied market share would be, very quickly. So we know it's a 4072. So that would be 18% market share, which is triple from what they are at today, which is a lot to gain, especially since they plateaued out over time. So again, I think we're going to need to dip into this profitability perspective.
+
+Interviewer: Yes.
+
+Interviewee: And so where I'm thinking about here is we'll assume that they maintain share that we're forecasting of 8%, so we know that they'll be starting with $320 million of topline. Again, we're trying to solve for this 72 million, and so now it is just figuring out what the margin is. And if I do this, it looks like it is just higher than 20%, but to put some math to it, 22.2.64 and that leaves us eight. So it's like 22 to 23%.
+
+Interviewer: Great.
+
+Interviewee: So 23%, again that's big, but if we look at the European business as potentially where we might get to, so upper bounds 18%, call it 20 maybe if we get some synergies from FoodCo. I think we need to do some further analysis to see if we can unlock fully unlock this 23%, but I'm now getting a little less bearish than I was originally. So I'm going to update my hypothesis that this is a good asset. I like the market that they're in, I like the growth potential from the profitability perspective. The lever that exists particularly here in terms of matching the European business. And I think a combination of these two could make the 6X profit target achievable. We might not get all the way there, but I think we might get pretty close, which I think would be exciting to FoodCo.
+Interviewer: right could still make it attractive and and I like your sensitivity because you know you don't need it to be on either end of these extremes but we are asking for a lot to go right share gain and margin so why don't we take a look at some of the external factors that you had mentioned m so I'd love you to take a look at this and tell me what it it tells you about the competitive market 
+Interviewee: So, comparing smilk to the big players, it's clear they're smaller but still holding their own. Alt milk and large snackco dominate, but smilk's brand attributes are promising: fun, delicious, premium. Customer satisfaction is high, though awareness is low. There's room to grow there, which could boost sales and market share. Pricing is interesting; we're mid-range while alt milk is gaining ground despite being seen as overpriced. Given our premium positioning, there's potential to adjust prices. This could be a strategy to steal market share and improve profitability. Do we have data on customer willingness to pay or potential for a pricing pilot?
+
+Interviewer: That's a great question. Absolutely something that we would do and did do under the course of this. But one thing that I would love to know quickly is, as we think about deepening our insights and analysis for FoodCo, and we know that they are fantastic in terms of building platforms and acquiring - I think it was a comment that you made earlier as well - that they could start to think about that. Where do you think that they could go here in terms of their overall portfolio?
+
+Interviewee: Yeah, so I think it was one of the when we were looking at the market share map, like potentially a quasi rollup strategy. And if I go back to the math that we calculated earlier, 18% total market share would help them get to that top line. And looking at this, alt milk one adding on would help us get there. And then these other three targets, if we were to incorporate them into FoodCo's portfolio, that would help us to reach the target and exceed it. Obviously, it becomes the question of are they viable? Are they up for sale? And again, all of the other considerations that we outlined in the original framework of like culture, how we would finance it, etc., come to mind.
+
+Interviewer: And if they are, you know, adding to their profit profile overall.
+
+Interviewee: That's a great point because we don't know what the profitability of these companies look like. 20% share gain in the last 18 months, I imagine that came with quite a bit investment and maybe their margins look very negative.
+
+Interviewer: Very likely. Well, this has been fantastic. I'd love to take a step back and just ask you at this point, knowing we don't have all the information that we typically would have, where is your recommendation and your hypothesis at this point?
+
+Interviewee: I recommend FoodCo acquire smilk for two key reasons: First, the alternative milk market is booming, set to double in 5 years. Second, smilk offers valuable assets and strong customer appeal, positioning us well to approach our 6X profitability goal. While this move carries risks, such as the ambitious profit target, we can explore pricing strategies to drive revenue and market share. Negotiating the acquisition price with smilk is also an option, considering their expectations may be unrealistic.
+
+Interviewer: That's fantastic. Your rationale makes so much sense, and I'm so glad that you've highlighted some of the key considerations and risks, especially around pricing. Because to give you a little bit of insight, this project was based off of a real case, and there wasn't a willingness to pay that higher price, so made that profit target even more tricky. But you absolutely targeted the right next steps here for this project.
+
+Interviewee: Awesome.
+
+Interviewer: So very nicely done, and it was wonderful to meet you.
+
+Interviewee: Yeah, thank you for working through the case with me.
+
+Interviewer: Take care."
+Evaluation of Acquisition Target for FoodCo in the Alternative Milk Market,Jen,Olivia,"FoodCo, a multi-billion dollar company, seeks to enter the alternative milk market, partnering with Ban Consulting for strategic guidance. The focus is on assessing the potential acquisition of Smilk, a premium alternative milk brand with significant profit growth and market share.","Assess the feasibility of acquiring Smilk as a means to enter the alternative milk market.
+Determine the achievability of Smilk's profit growth target of 6X over the next five years.
+Explore alternative acquisition targets and organic entry strategies.","Market Dynamics: Understand the growth trajectory and competitive landscape of the alternative milk market.
+Profitability Assessment: Evaluate Smilk's current profit margins and potential for future growth.
+Acquisition Strategy: Compare Smilk with alternative acquisition targets and assess synergy potential.
+Financial Viability: Determine a realistic profit growth target for Smilk based on market analysis and cost-benefit analysis.","Market Analysis: Alternative milk market is growing rapidly, but achieving Smilk's profit target of 6X poses challenges.
+Competitive Positioning: Smilk holds a 6% market share and has experienced significant growth, but faces competition from other players.
+Profitability Assessment: Smilk's profit margins in the US market are lower compared to its European business, raising questions about the achievability of its profit growth target.
+Alternative Acquisition Targets: Olivia identifies Alternative Milk Co 3 and Alternative Milk Co 5 as potential acquisition targets with strong growth potential and competitive positioning.","Olivia recommends against acquiring Smilk due to doubts about achieving the ambitious profit growth target within the competitive market landscape. Instead, she suggests exploring alternative acquisition targets and organic entry strategies, such as Alternative Milk Co 3 and Alternative Milk Co 5, which offer better growth prospects.","Olivia demonstrated strong analytical skills and strategic thinking throughout the case, providing insightful observations and recommendations. Her consideration of market dynamics, profitability, and alternative strategies reflects a thorough understanding of the case context. Additionally, her ability to articulate trade-offs and revise profit targets based on market realities showcases her critical thinking abilities. Overall, Olivia's performance suggests she is well-prepared for consulting roles requiring rigorous analysis and strategic decision-making.","Interviewer: hi Olivia great to meet you
+Interviewee: hi denen nice to meet you as well
+
+Interviewer:  how are you feeling today
+
+Interviewee:  gosh um a little nervous but definitely excited excited to dig in
+
+Interviewer: yeah no problem at all well I'm going to be one of your case interviews today I'll be in charge in terms of keeping track of time and there are a couple different sections that we'll likely want to get to so don't worry at all if I move you along it's a part of the process and we'll jump in
+
+Interviewee:   sounds good let's do it so
+
+Interviewer: Olivia we're going to bring up a slide to be able to go through some of the case and this one I  think is really fun because it's reminiscent of a lot of the work that do I spent all my time in consumer products and Retail and this one is on Food Co which is in the alternative milk space so I'll just give you a little bit of the background so you can Orient  yourself to the overall project and case that we're going to be going through foodco is a multi-billion dollar client with leading Brands across the food categories and they want to enter the alternative milk space alternative milk you can Define as plant-based Dairy Alternatives including almond and soy and oat and coconut all of those good ingredients um for the purposes of the case which ingredient is irrelevant it's just really the alternative milk space Food Co would like to partner with Bane um to understand how they can enter this space they have extensive acquisition experience and I've identified a number of promising targets one of them is smilk and they are a premium alternative milk business that was started in the Netherlands now of course the as they're looking at smilk they want to know is this the best way to enter into it and how high quality of an overall Target it is so with smilk over the last three years they've doubled in profit which is something that's incredibly attractive to them they've also expanded to the US and across Europe they play extensively in the alternative milk space and really have had a lot of success gaining shares 
+so they make up 6% of the alternative drinking milk sales in the US and they're expected to have 8% share by year five our client is focused only on the US of the alternative milk space and um smilk's uson business so we don't need to worry as much about your they expect that smokk should be able to increase its profit by 6X over the next 5 years and so the question for you is how would you approach assessing whether
+or not the investment in smilk is the right way for Food Co to enter into the
+alternative milk space and do you feel that their profit Target is achievable
+
+interviewee: awesome um well first of all I'm a big drinker of alternative milk so uh
+excited to dive in here I'm a big O milk in my in my tea type of gal um a few quick questions before we dig in so I just want to make sure I understand how milk makes money I'm assuming that they go out and purchase their crops from from Farmers they bring it back to maybe their factories they produce it into the actual milk product and they sell either directly to grocery stores or maybe through a distributor type againin is that is that right
+
+interviewer:  that's right for the purposes of this case the most important thing for you to understand is that they are a wholesale brand of alternative milk and sell into Grocery Stores um they also do earn a fair amount of Revenue outside of grocery but for the purposes of this case we can just focus on that grocery Revenue
+
+interviewee: awesome okay we're focused on grocery got it and then other than you know I know we're assessing that profit number um at 6X are there any other specific numbers that we're really looking for here
+
+interviewer; well it's really about understanding the elements of whether or not that profit
+number is achievable so it all comes down to that and then of course the characteristics of whether or not this is going to allow food C to enter into this space successfully so if they are able to hit the The Profit number but  it's a really small share it's not going to give them traction that's an important element to consider as well
+
+interviewee: well great I think I have a handle on what's Happening Here do you mind if I
+take a minute to quickly gather my thoughts
+
+Interviewer: yes please do
+
+Interviewee: great so when addressing these kind of core questions of a how is foodco going to approach the market and B is that 6X profit Target reasonable for smoke I looked at this across uh three kind of buckets so first starting with Market uh then taking a look at the feasibility of that profit Target uh and then finally ending with additional acquisition consideration so starting with Market the alternative milk Market I think is pretty new right so is it still growing if so how quickly um what does the competitive landscape look like within that is it super fragmented and there are a lot of new small players like smilk or are there a couple of big dominant players like you know the Coke and Pepsi of the alternative mil tet and I wanted to take a look at the feasibility of that profit Target so um when we're talking about profit we're talking about Revenue Minus cost right so if you want to increase Revenue we either have to sell more products or raise the price everything about selling more products how does smok cont tents do that right are they going to go into more grocery stores are they going to take up more shelf space within those grocery stores what do those relationships look like in terms of price where does milk sit in terms of pricing versus competitors do they have room to the margin a little bit there um and then cost um thinking about you know as milk starts to reach a little bit more scale is there some economies of scale that they can build in there so you know make more uh milk cartons on the same machine type of thing and then finally uh thinking about those additional acquisition considerations so um are there any synergies that food co andk could realize together whether it's you know food CO's Advanced distribution Network maybe their incredible branding team what is the price of smoke maybe versus other alternative milk companies uh what's the culture of smoke Versus Food Co right whenever I'm thinking about Acquisitions or mergers I'm thinking about cultural fit and milk is this small young exciting alternative milk startups Food Co I'm assuming is a big established kind of corporate piece how are those two going to work together um and then other options so uh what are some other ways that potentially break into the alternative milk Market if not buying milk right is it something that food co has the capability to do organically are there other acquisition targets that they should be looking more closely at that sort of thing but I think first place I'd love to start is with the markets uh do we have a little bit of a sense of kind of the size of the alternative Work Market in the US
+
+Interviewer: that's great I love how you've set up your framework especially with many of the alternative considerations outside considerations from profit and cost as you mentioned before we go to market which I think is a great place to start and we'll certainly go there but before we go there I'd love to hear without having any of the data at your F fingertips which I realize is uncomfortable what is your leading hypothesis of whether or not this um profit Target is achievable and whether or not this might be a good acquisition for foodco
+
+Interviewee: yeah so when I think about 6X for any company that's that's a pretty big number that being said milk is a relatively young company their startup so so 6X in the next five years wouldn't be unheard of they have potential I think to be an exciting acquisition Target but before I really recommended them to our client I would really need to know a little bit more about how they were positioned within the market and then understanding their sort of strategic plan for how they're going to capture that extra value
+
+Interviewer: great so as you narrow it down into the leading drivers to prove or disprove that hypothesis you're you're largely saying it's how they're going to execute and how their position in the market
+
+Interviewee: yeah
+
+Interviewer: great all right well as you said let's jump in and take a look at the market to start so I want to bring up another slide for you
+
+Interviewee: great
+
+
+Interviewer:  so as you said let's do Market first as you take a look at this could you describe to me what Dynamics pop out to you and what does this chart overall say to you
+
+Interviewee: absolutely so okay we're looking at the market overview here
+specifically us milk sales um I see we're working with kind of a 25 billion million dollar cap here on the Y AIS and we're moving from 10 years ago through five years from now okay so we got a little bit of a span of time here we've kindly been given the ker for the past five years the next five years and then the bottom I'm seeing uh alternative milk share percentage okay uh total versus total milk market and then traditional milk great okay just taking a closer look at these numbers here I see total milk Market is gonna stay sort of the same it's around 20 billion right uh today versus five years from now we're looking at the alternative milk share uh it's around 10% right now so okay rough math2 billion dollar right now and then in five years from now we predict that it's going to sit at a 20% share again still that 20 billion total milk market number so we're at we're at what four billion um so we're moving from two billion to four billion um that's great that's really exciting for alternative milk but we're looking for that kind of 6X number for smk right so the Market's growing by 2x smk needs to grow by 6X so the market growth alone is is not going to be what we need in order to to get sm those those goal numbers
+
+Interviewer: so glad that you saw that implication from this clearly a very exciting Market there's no question that foodco wants to get into this fast growing segment but that the Market's not going to do it by itself to allow company to achieve its Target great so another thing that you said was as a very important driver to whether or not this is going to be a good acquisition is its overall positioning so we have a couple of pages on that and I'm going to flip forward to one additional page and I'd love you just to tell me a little bit of what you see on this and what it implies in terms of the overall answer that you're driving towards
+
+Interviewee: absolutely okay so we're looking at competitor market share for the last 18 months uh alternative milk retail sales in the US makes sense um we're going from 18 months till today so no forward looking predictions here but uh we're looking at milk share percentage um across the bottom and right away I see that that jump that you were talking about where we moved from 1% share 18 months ago to six 6% share six months ago I mean that's um that's exciting growth unfortunately between six months ago today we're still kind of hovering at that 6% number so that's a bit concerning to me just right off the bat and then taking a look at this broader Market you know in my framework I had asked the question about kind of how fragmented the market was or whether there was a few major players looking at this graph it looks pretty fragmented right um smilk is is a smaller player but they're certainly in the fight um I see that large snack Co has recently joined and has really been rapidly gaining share it seems like alternative milk Co 3 and alternative milk Co 5 are also growing pretty rapidly so when we're thinking about milk in that kind of broader context I'd love to understand a little bit more about what large snackco and then milk Co 3 and milk Co 5 are doing that's allowing them to kind of capture the market so quickly
+
+Interviewer: very much agree with that you can see a very active Market here curious what you think about private label how do you think about the growth and what you've seen with that
+
+Interviewee: so when I'm think about private label I'm thinking about like the whole food brand of like exactly
+
+Interviewer: right exactly
+
+Interviewee:  just looking at this it's in the fight um it doesn't seem like it's really performing at the same level as some of these other competitors maybe there's something in that maybe uh people you know because alternative milk is is such a kind of new segment people really want to buy the milk that they that they Trust the manufactur trust maybe it's also something to do with the type of customer that buys alternative milk alternative milk isn't just about the health benefits maybe it's also about this sense of almost a kind of premium product where you're doing something that's good for the world it's also good for you and so there's like that that almost premium element to it but um yeah that private label doesn't doesn't really excite me on the trajectory that it's on now
+
+
+Interviewer: yeah you know and it and knowing that smk is a premium positioned product that might be a good sign too to see that that you know private label isn't isn't going to be taking over the market and that there's a lot of differentiation by brand well great thank you for going through that and I agree with you that we need to further dive into each one of these different competitors before we do that I have a little bit of information on the company as well that we're going to flip to and so you know we haven't given you very much data to date but we do have a little bit of data here here on the company's us business and their their European business I'd love to just take pause on this slide for a second and contemplate that question around being able to hit our profitability Target and just having a sense of what that total profit in the US looks like and whether or not the target is reasonable
+
+Interviewee: great well I'm I'm really excited to be digging into some numbers here I didn't tell okay so what do we have here we smok financial data you know Revenue profit profit margin okay and then percentage of SM total profit great and we've got the US business Europe business and total business across the top okay so we have a few numbers already in here uh uh total revenue very helpful and also profit margin percentage of that total revenue um so I'm thinking that's where I'll start right um we can use that revenue and profit margin to give us total business percent of milk total profit um so 320 times 15% we're looking at around 48 million so that'll fill in that kind of lower right hand box and then we know the US business is 25% of smoke total profit right so uh we can take that 48 million number and multiply it by that 25% and that will give us around 12 million for that uh profit number in the US business and then we want to understand Revenue as well so we know that that 12 million represents a 10% profit margin so we can just go ahead and take that 12 million multiply it by 10 and we're looking at 120 million in Revenue
+
+Interviewer: it starts to give us some of the data that we need I'm curious just taking a step back before even filling out out the rest of this what does some of these numbers tell you on the page about the business
+
+Interviewee: absolutely yeah the fact that that Europe has such better margins is actually a source of faith for me like maybe as the US business starts to get more established and we we build more relationships start to get some economies in scale here milk has the ability to really uh grow their their profit margins in the US as well um when we're thinking about this in the context of our our larger question right which is our profit Target is that reasonable um with the margins that we're at right now in the US business we would have to get to what like um let's see 12 million times six uh it's like 72 million profit I want to say uh and then uh 720 million in Revenue that's that's going to be a pretty big lift in a 4 billion uh alternative milk Market we looked at it from the Europe business perspective so that's that 18% profit margin we might be getting a little bit closer but I I don't think that we would still be at that 6X number I'd be happy to do that math if it's uh if it's helpful for the case Jen
+
+Interviewer: no I think we can actually move on but I love how you're thinking about it spoton in terms of not quite be getting all the way to 6X even with this bump from Europe I'm curious what ways do you think that you might be able to achieve this higher profit margin that they're getting in Europe you mentioned economies of scale but I'm curious if there are other drivers
+
+Interviewee: so as they move into the US they start to get a little bit more established maybe uh start to get a little bit more brand name recognition if smk is a premium product then we want folks to recognize the label right so that could be a part of it looking back at my framework here um increasing profit right revenue and cost so selling more product is one making the margins a little bit more more agreeable is is another whether it's uh better relationships with the Distributors retailers or establishing our own manufacturing plants here those are all options and then price right maybe as as customers start to recognize milk in store and understands a little bit about its value proposition prices can go up a little bit while still maintaining a uh loyal customer base
+
+Interviewer: makes a lot of sense as you think about now we have an aggressive growth Target and and profit Target is you think about the tradeoffs between the two of those how do you think about it and ultimately kind of where you might end up Landing up if you if you raise price a lot but are also trying to get that growth
+
+Interviewee: yeah it is a tradeoff right um we had a conversation
+earlier about alternative milk being a more premium product we saw that private label not performing super well we know that smilk is positioning itself also as a premium brand within that premium product if you can get people to believe that value proposition then I think it's possible Right raise the prices a little bit and and folks are still willing to pay if they really believe that it's better but as you're trying to grow and an accumulate scale there's a real question about how many customers within that relatively new alternative milk Market are are willing to pay top dollar how much they really care about having the best milk versus just having a milk um that would be something that I would definitely want to dig deeper into if um hco is my client and and this was Bane case
+
+Interviewer: agree you know and this is based off of a real Bane case and in that situation we did dive deep into price here we're not as much but I agree it's an important topic one thing that you had mentioned in your original hypothesis and the core drivers was the competitive positioning so we do have one last piece of data that I'd love to flash up for you and it's around how smilk is positioned relative to the other players so if I flip this up I'd love for you to quickly Orient me and tell me what are some of the insights you can pull from this page
+
+Interviewee: sure okay so we're looking at the US alternative milk Market selection of competitor data okay we've got share today share change top words associated I love that satisfaction awareness and then average price great we were just having a conversation about price okay and across the top we've got smk and then some of the competitors that we talked about when we were looking at that uh kind of Market slide so right off the bat I'm zooming in on price because we just had that conversation it looks like milk might have a little bit of uh wiggle
+room maybe they're not super out of line with with what else is in the market but
+they might be able to increase a bit uh I'm looking over now actually at alt milk 3 five and then large snackco they're all at or above milk prices and they're all growing in double digits right so alt milk 3 is growing 16% milk 5 20% large snack or 21 I'm especially I'm looking at alt milk 5 one of the top words associated with their brand is best versus milk which is which is premium but but maybe not quite as good as best um so I know that my initial hypothesis was that smk could be an attractive acquisition Target actually just looking at this page I'm starting to get really excited about alt milk three and ALT milk 5 in particular right the customer awareness of the brand is either low or medium so there's some room for food code and maybe move in there and and help bump that up with their amazing branding team or their marketing team uh they have great top wordss associated with the brands and most importantly they are growing in the double digits with share so when I think about my initial framework for how to approach this question I had that section of my of my framework which was really about additional acquisition considerations right and one of those was uh what are some of our other options to break into the market Beyond milk and looking at this page it seems like alternative milk 3 and alternative milk 5 would both be really strong potential other acquisition targets that I think we should take a closer look at uh before we step forward and really recommend that food Cod proceed with this milk acquisition
+
+Interviewer: I think that's great and fantastic observations what are some of
+the things that you'd want to know about alt milk 3 and ALT milk 5 to help for answer that question
+
+Interviewee: when I'm thinking about kind of some considerations I'd want to know for alt milk 3 and ALT milk 5 actually can we flip back to that earlier great idea page yeah so this is great so we can see here alt milk three and five are both pretty new entrance right and they've managed to capture a lot of the market really quickly so I'd love to know a little bit more about what's behind that how they've managed to create that growth and whether it's something that's sustainable you know what are their profit uh predictions or goals for the next five years um versus that kind of Sixx number for smoke and then I'd also want to look at some of those additional acquisition considerations that I had in my initial framework right so potential synergies that food co and smoke or Food Co and uh milk Co 5 and milk Co 3 could realize um what would be the price of those companies cultural overlap how customers view them Etc it seems like there's a lot of fodder in here for uh great
+
+Interviewer: that's great I'm so glad you had me flip back to this page because I agree there's so much that you can learn from this the fact that there are new entrance so I'm going to take down the materials for a second and I'd love just for us to summarize a bit of what we've learned and what you ultimately think you know around the original key questions
+
+Interwiewee: so I would recommend that food code does not acquire milk I don't think that that 6X profit number is reasonable for a couple of reasons uh one the market is only growing by 2x that's about A4 billion Doll Market and given the current US margins if they wanted to capture a 6X profit they would have to be taking in around 720 million in Revenue in A4 billion Doll Market so that that seems like an unreasonable lift even if they were able to increase their profit margins to the kind of European numbers it would still require a pretty substantial Market presence and of course now we're talking about that trade-off between you know a large market share and also a price increase those two things are are tough to do in concert with each other so so I think uh milk probably not the right acquisition Target for foodco however in terms of next steps there are other ways for foodco to enter the alternative milk Market um I'm specifically thinking of alternative milk code number five and alternative milk code number three as potential acquisition Target now 
+
+Interviewer: I'm curious one thing then you know it's a very very practical recommendation to say that the profit margin Target is difficult to achieve one thing we might like to do is not only take back to the client other recommendations around around other acquisition targets but also maybe a what do you need to believe what would be an appropriate revision of the profit Target and so what do you think would be reasonable for us to bring back to them 
+
+Interviewee: okay well Baseline I would say Baseline would be 2x because that's how much the market is going to grow and I some confidence based on that slide we saw of smoke versus competitors that they can at least maintain their market share right so I would say 2x's Baseline um I would say given their current uh margins versus Europe Europe's margins were about double uh the the US margins so again kind of rough estimates here if they were able to double their profit margin then we could put another 2x on top of that so maybe we're looking at Forex as a more reasonable number for milk in the next five years
+
+interviewer: Olivia this has been great thank you so much for going through this case with me it's very reminiscent for me because it was based off of another consumer goods product that we actually looked at and the ultimately it did come down to price and as you were saying earlier on we did a lot of work around the consumer's willingness to pay and for this particular brand they were not willing to pay the prices that the brand was currently putting up and so that gave us a lot of hesitation around the ability to have profit margin gains over the long run so very reasonable recommendation on your part and I had a great time so thank you
+
+Interviewee: oh thank you Jen it was it was absolutely my"
+"FlashFash considers acquiring LaMode, a luxury online retailer, for growth.",Rob,Enguerran,"FlashFash: A U.S. multinational apparel company with a revenue of $25 billion, known for its mid-market brands and flexible production processes.
+LaMode: The leading independent online retailer of luxury brands, accounting for around 3% of online apparel sales in North America.","FlashFash seeks long-term sustainable profits and shareholder returns, considering acquisition as a lever for growth.","Standalone value of LaMode: Market growth, business model sustainability, and competitive positioning.
+Synergies between FlashFash and LaMode: Revenue synergies, cost synergies, and international expansion opportunities.
+FlashFash's capabilities: Integration potential, skills, and financial resources.
+","Market growth in Asia presents an opportunity for LaMode, but aggressive sales targets raise concerns.
+Limited revenue synergies and mismatch in business models suggest acquisition may not be beneficial.
+Potential opportunities for LaMode's organic growth include geographical expansion, product diversification, and physical retail presence.
+",Acquiring LaMode may not align with FlashFash's growth strategy due to limited synergies and aggressive sales targets. LaMode presents opportunities for organic growth through geographical expansion and product diversification. Further analysis is recommended to explore its standalone value and growth potential.,"Enguerran demonstrates exceptional presence, communication, and case leadership skills. His structured approach, numerical proficiency, insightful judgment, creative thinking, and concise synthesis reflect a high level of competence. Overall, an outstanding performance in addressing the client's objectives and key considerations.","Interviewer: - Well, that's all of my questions with regard to your background. 
+
+
+
+Interviewee: - Yep.
+
+Interviewer: - There'll be a bit of time at the end if you have questions for me as well, but I thought it would be good to go into a case at this stage
+
+Interviewee: - Okay.
+
+Interviewer: and just try and solve a mock business problem as it were.
+
+Interviewee: - Sounds good.
+
+Interviewer: So this one, let me give you an overview of the client and the problem before we get started. With this one our client is a company called FlashFash. - Okay. - They're a U.S. multinational apparel company with revenue of around 25 billion dollars.
+
+
+Interviewee: - Sorry, 25 billion dollars?
+
+Interviewer: 25 billion dollars. And they own some of the best known mid-market brands in North America and the West. Generally, they sell 70 percent of their products through their own network of corporate-owned stores, so their own stores basically and then the remaining 30 percent they sell through multi-brand retailers.
+Interviewee: So it's a bit like Gap or Zara or something.
+
+Interviewer: Exactly that kind of style. But in addition to what I described, they operate a relatively distinctive business model where instead of committing large percentages of their volume out-front ahead of a season for production, they commit a small amount, and then use customer feedback and their relatively flexible production processes to then ramp up products and replenish stores weekly in response to what they see happening in the market.
+
+
+Interviewee: So they're super fast.
+
+Interviewer: They're super fast. Actually, it only takes 15 days for them to go from design to production.
+ 
+
+Interviewee: Oh wow.
+
+Interviewer: And so they can observe what's happening with customer feedback and then respond to that. As part of this client's growth strategy, FlashFash are considering the acquisition of a company called LaMode.
+
+
+Interviewee:  Yup
+
+Interviewer: Now, LaMode are the leading independent retailer of luxury brands online and they count for around three percent of all online apparel sales in North America.
+
+
+Interviewee: Sorry, three percent of online apparel sales in North America.
+
+Interviewer: That's right.
+
+Interviewee: And you said they're an independent...
+
+Interviewer: Yes so they're an independent retailer of luxury fashion
+
+Interviewee:  So it's not their own brand, they're basically selling other people's brand.
+
+Interviewer: Mostly, although they have recently launched their own brand,
+
+
+Interviewee: Okay.
+
+Interviewer: which comprises around five percent of their revenue.
+
+Interviewee:  Okay. 
+Interviewer: But their model is, in addition to being a luxury player, they operate a curation model, so they curate products from the best brands they can find and then present a large collection of around 30,000 items, all kind of in that luxury high-end setting.
+
+
+Interviewee: Okay so basically FlashFash is more mid-market, but LaMode is really top-end.
+
+Interviewer: That's right.
+
+Interviewee: So it's like, you know 1,000 dollar handbag, and that kind of thing.
+Interviewer:  That's exactly it.
+
+Interviewee: I mean for, I guess clothes.
+Interviewer: Yes, yes.
+
+Interviewee:  Men and women? 
+Interviewer: Yeah, both menswear and womenswear. And so FlashFash have just asked us whether they should acquire LaMode.
+
+
+Interviewee: Okay. Sounds good. So that's really the question, should we acquire or not?
+Interviewer:   [Rob] That's right.
+
+Interviewee: And do you know why they would like to acquire it, what's the idea behind it?
+
+Interviewer: Yeah so they have a growth strategy right now, they're obviously a reasonably large player, 
+
+Interviewee: Yeah. 
+
+Interviewer: they're looking to grow to a larger scale. They're looking basically for longterm sustainable profits and returns to shareholders,
+
+Interviewee: Yeah. 
+
+Interviewer: and they see acquisition as one potential lever for that.
+
+Interviewee: Okay, so they feel their more traditional business probably not growing as fast as LaMode and that could be a way to accelerate their growth. 
+
+
+Interviewer: Yeah, that's exactly it.
+
+Interviewee:  Makes sense. And do they want us to look at alternatives or should we just focus on this business? 
+
+Interviewer: We should just focus on this business for now.
+
+Interviewee: - Okay, do you mind if I take a few seconds to put my thoughts on paper?
+
+Interviewer: Absolutely, take your time.
+
+Interviewee: - Okay.
+
+Interviewer:  Alright. 
+
+Interviewee: Okay so basically you want us to figure out whether FlashFash should acquire LaMode.
+
+Interviewer: - Yes.
+
+Interviewee: There are three areas that I would like to look at. First one is I would like to understand LaMode as a business and its stand-alone value. So, is it an attractive company in general, without any link to us. 
+
+
+Interviewer: Right. 
+
+Interviewee: Once we've figured that out, look at synergies, because we combine those two business can we do more than just add them up.
+
+
+Interviewer: - Yeah.
+
+Interviewee: Finally our capabilities. Are we able to integrate those two business, do we have the skills, the money, et cetera.
+
+Interviewer: Okay.
+
+Interviewee:  If I go to the value of LaMode as a business, I think the one question is what's the market growth of this kind of online apparel luxury market.
+
+Interviewer:  [Rob] Mhm. 
+
+Interviewee: I would assume that there's probably a lot of growth in Asia or emerging countries where you have a bigger middle class
+
+
+Interviewer: [Rob] Yes. 
+
+Interviewee: That can afford those type of clothes. So I would like to check that. And once we've done that, I also want to understand whether that business model is a winning business model. Is the company equipped to maintain or grow its share over time, is it going to face competition from the online stores of the luxury retailers, is Chanel and all these others, are they gonna distribute directly online, rather than going through people like LaMode, I think that's an important question.
+
+
+Interviewer: [Rob] Okay.
+
+Interviewee: If we figure out that actually there's something here and the value of the business is below what it could get to, given the growth of the market and their positioning, then that's interesting. But we'd want to look after that to the synergies as I said.
+
+
+Interviewer: What do you have in mind?
+
+Interviewee: For synergies?
+
+Interviewer: Yeah.
+
+Interviewee: Well we want to understand whether if we combine the business, can we accelerate our growth. For instance, maybe we can sell our products to their websites and the brand and maybe that will help us grow our core business. I have to say I'm a little skeptical about this because they have a luxury positioning, we have a mid-market positioning so I'm not sure there's synergies. There could be some synergies in terms of costs, because I'm sure we have some overlapping footprint, so I would think for instance our online operations, logistics, delivery, customer service may be, maybe there is a way to combine those and decrease our cost. 
+
+
+Interviewer: Right.
+
+Interviewee:  So I would look in that sort of synergies both in customer-view and capabilities. Here I mentioned a few ideas before, around our skills and our know-how. Obviously, it looks like our know-how, FlashFash, is really about being super quick at manufacturing new styles.
+
+
+Interviewer: yes
+
+Interviewee:  Not sure to what extent that we'll be helpful to LaMode. I'm not sure basically we're leveraging our core capability with.
+
+
+Interviewer: Right, okay makes sense, I think these all sound like reasonable areas to explore. 
+
+Interviewee: okay
+
+Interviewer: Let's maybe start with one of the areas you touched upon in passing, I think you mentioned Asia's a potential area to look at and this is something that we'd been interested to explore as well. Now the client believes that there is an opportunity for LaMode to realize a third of its global sales in Asia, within five years. They believe this partly 
+
+
+Interviewee: Sorry excuse me, so a third of LaMode's sales would come from Asia.
+
+
+Interviewer: That's the client's belief, or at least their initial hypothesis.
+
+Interviewee:  In five years, okay.
+
+Interviewer: Right. Now, that sounds like an aggressive number but the reason they believe that is partly because of the growth rate of online apparel in Asia, where the overall apparel market is expected to double in this time frame, and at the same time the share of purchases made online is expected to triple. So really, it's a relatively fast growth rate.
+
+
+Interviewee: So that means that the online apparel market in Asia should be multiplied by six or five years.
+
+
+Interviewer: Exactly. And so the question for us is simply what share of the Asia online apparel market LaMode would need to reach in order to capture this opportunity.
+
+
+Interviewee: - [Enguerran] Okay. That makes sense. Okay so I think, if I want to find out our share of the Asia online apparel market in five years, that means I need to have our sales in Asia in five years and the size of the market in Asia in five years, which we already know that number, is six times the size of the market in Asia now. So I think we need a few more elements here. First do we have an idea of the sales that we would achieve?
+
+
+Interviewer:  [Rob] Right so we know that at the moment LaMode is at around two billion.
+
+Interviewee:  [Enguerran] Okay.
+
+Interviewer: - [Rob] We believe in this time period they can be expected to triple.
+
+
+Interviewee: [Enguerran] Okay. Okay so basically two billion now, multiplied by three and then divided by three to get the Asia share. So that's two billion for LaMode. Do you have an idea of the size of the market in Asia now? 
+
+
+Interviewer: [Rob] We do, it's eight billion. 
+
+Interviewee: [Enguerran] It's eight billion... Okay, six billion today, sorry eight billion multiplied by six, that will be our market size in five years so I put two billion over this, so that's gonna be so billion billion, and that's gonna be one out of 24, which is gonna be 4.2 percent, so that means that we would need to have a 4.2 percent share of the Asia online market in five years.
+
+
+Interviewer: - [Rob] Right, sounds aggressive no? 
+
+Interviewee: Well yeah, because I think you said we had three percent of the online apparel market in the US right now and it looks like this is our core market so it means not only we're gonna have to go into Asia, which is not our core market, and take shares that are way above what we currently have in our market, so again I'd be curious to see how we're gonna achieve this because that sounds extremely ambitious.
+
+
+Interviewer: I agree it sounds somewhat aspirational on the face of it. Okay, let's move on, so you touched upon a couple of other elements of your structure.
+
+
+Interviewee:  yeah
+
+Interviewer:  And I think one aspect that's interesting to look at is synergies. 
+
+Interviewee: Yes, sure.
+
+Interviewer: Well you have a reasonable amount of data on this, and we've compiled this exhibit with information on both, our client and the target. I'd like you just to have a look at this and let me know your thoughts on whether overall there seem to be potential synergies which seem appealing between the companies based on the information that you have
+
+
+Interviewee: [Enguerran] Okay so here we have some information about FlashFash and LaMode. We have the sales by geography. And an idea of the annual growth, we have the share of the online sales, then we have some information about the transaction cost, average purchase, so that's the average purchase of a client, I assume? 
+
+
+Interviewer: That's right. And the transaction cost, just so you know, is a combination of fulfillment costs, customer service and payment processing, primarily.
+
+
+Interviewee: Okay, and then cost of goods sold, okay so we understand the cost, and then our own brand. Okay so all merch within ourselves come from our own brand which is 100 percent at FlashFash of course. Sounds good, okay so if we look at synergies, so the first thing is, LaMode is really concentrated in North America and Europe, and pretty much absent from Asia so again like that 2.5 percent seems even more aggressive when you look at this if we have zero presence at the moment.
+
+
+Interviewer: - Yeah they're going from scratch, then.  
+
+Interviewee: Yeah so I think you would need probably to acquire an existing business or do something else. In any case, there is an opportunity for FlashFash to help LaMode grow outside of North America and Europe definitely. LaMode is growing faster than FlashFash, 31 percent against four percent that doesn't surprise me, it's an online business, it's probably a growing market, be interesting to know whether it grows faster than the market. But, I don't think that means that we have particular synergies here. Online presence... So obviously, LaMode does two billion online and we do 22 percent of our business online which actually is, so it's above five billion. So it's interesting because FlashFash which is meant to be a more traditional business actually does two to three times more sales online than LaMode. I was expecting maybe we could gain expertise on the online marketing et cetera from LaMode but we're probably as knowledgeable as them about this.
+
+Interviewer: No that's right, in absolute sense we're doing far greater sales online and we have decent expertise in that area. 
+
+
+Interviewee: Yeah, so I'm not sure there is something there. What's interesting in the transaction cost is we can see that the average purchase is very different. 413 dollars for LaMode, 78 dollars for FlashFash, we're in very different markets so that's kind of confirming that our clients are probably not the same. I don't think that FlashFash products being distributed by LaMode makes sense, it's just not the same level in the market.
+
+
+Interviewer: yeah
+
+Interviewee: Cost of goods sold and transaction cost. What's really fascinating is LaMode's transaction cost is 48 dollars against six for FlashFash so it looks like, because we're luxury online retailer, we'll probably give a five star service to our clients in terms of delivery, it must be super fast I assume, like free returns for a month, customer service that is tip-top where you can call someone and get some help. Makes sense?
+
+
+Interviewer: Absolutely, yeah. So everything from the packaging itself to the delivery experience to the support experience is really in the premium tier.
+
+
+Interviewee: [Enguerran] So what's interesting is because our cost of goods sold is 46 percent as FlashFash and our purchase average is 78 dollars, it means that in terms of margin, we make around 40 dollars at FlashFash on a sale?
+Interviewer: yes
+
+Interviewee:  Which is less than the transaction cost of LaMode. So that means that even if the clients wanted to buy FlashFash products on the LaMode website, if we deliver the same quality of service, we would basically be losing money.
+
+
+Interviewer:  That's right. 
+
+Interviewee: So we can't really serve the FlashFash clients profitably with the LaMode model. So again, something against that ID that we can all of a sudden distribute our products.
+
+
+Interviewer: Yes, are there any potential opportunities in terms of cost synergies between these two players?
+
+
+Interviewee: - There might be. There might be, I'm thinking obviously their own brand, that's what we do right, I assume LaMode is also seeing a lot of the production of their products and maybe we can help them decrease their cost of goods sold on their own brand products. But overall when I look at this, my conclusion is, in terms of revenue synergies is a pretty weak case, there might be something in terms of international developments, but the idea of combining the two businesses to distribute the price of one in the other doesn't seem to make a lot of sense to me. So at this stage I would say, on the basis of this analysis, it's kind of confirming that it's probably not a good acquisition target for us.
+
+
+Interviewer: No, it's a reasonable assessment, they have very different structures, they operate in quite a different way. Okay but let's switch gears again to look at just a broader area.
+
+
+Interviewee: okay 
+
+Interviewer: So beyond potential synergies with FlashFash which we've looked at, what ideas do you have to accelerate the organic growth of LaMode?
+
+
+Interviewee: Accelerate the organic growth of LaMode, okay that's interesting because it's already growing pretty fast.
+
+
+Interviewer:  Yeah they're doing pretty well already.
+
+Interviewee: - So, if we step back a little bit. So LaMode is an online retailer of fashion luxury products.
+
+Interviewer: That's right.
+
+Interviewee: [Enguerran] Mostly in the developed world. So, the question is can we do more? I think we talked about the first one is obviously the geography, so accelerate that geographical footprint, is clear. Luxury, there is a question could we use that model, maybe launch a different brand, but launch a slightly less up-market version of LaMode and start to go much more mass market.
+
+
+Interviewer: - So it drifts slightly in that direction but still be towards the premium end.
+
+Interviewee: Well I think what you would do is, you'll probably launch a different brand, to be honest. You use some of the same infrastructure, not all because obviously the service level is not going to be the same, but presumably you've gained some expertise in this and you can imagine a slightly less expensive copy-cat.
+
+
+Interviewer: - Okay, makes sense.
+
+Interviewee: So that's one. Obviously at the moment we're doing fashion, I'm wondering to what extent we could penetrate other categories. You could see how big brands like Armani, who are fashion brands, obviously perfume is one thing so they do cosmetics, but now they start doing furniture, as well and so you could imagine selling furniture and all sorts of fashion accessories. So there are some luxury categories beyond fashion, where I think because of our position, could be legitimate.
+
+Interviewer: yes
+
+Interviewee: And then online, at the moment we're pure online player, could we start having some flagship stores? In airports, for instance, where we're gonna meet some of the same clients who buy expensive fashion, and like the curating model because they don't have a lot of time so they like to be able to go somewhere and find some really good things.
+
+
+Interviewer: right
+
+Interviewee: - So I think physical retail is another idea. So these are all kind of new business ideas. There might be another categories around how can we do what we already do, but better, how can we sell more to our existing clients, how can we accelerate our client acquisition.
+
+
+Interviewer: - How might you go about doing that? 
+
+Interviewee: Well I would think like, in terms of selling more to existing clients, there is a lot of things happening with data science, we're now able to pinpoint exactly what's the next product that one person is gonna be likely to wanna buy because of their past purchase and online behavior, are we doing this? In terms of acquiring new clients, I'd love to see how our online marketing is working, is our advertising really spend-optimized. Again, I think some new technology is gonna help with that. So here it's hard to tell whether there's an opportunity we'd need to look out their current practices but we'd wanna check their state of the art. 
+
+
+Interviewer: - Just tell me something to explore, I think. Good, okay. So look I think we've covered a fair amount of ground.
+
+Interviewee:  Yup
+
+Interviewer: There's more that we would want to look at if we were doing this as a longer project but based on what you've seen so far, what's your overall message to the client at this stage?
+
+
+Interviewee: - So, I mean you've asked us whether it makes sense for you to acquire LaMode. At this stage, we don't think so, at least not because of the existing growth plan and synergies, we think that the growth plan in Asia is probably overly optimistic, you need to capture a 4.2 percent of share in five years, of a market where you have zero percent share. Now, in terms of synergies, we really haven't found many revenue synergies beyond accelerating your geographical penetration of developing countries, which is not a lot. So on that front it doesn't seem to make sense. Now, LaMode is an interesting business. It's growing pretty fast, we have identified ways to develop that franchise beyond this immediate scope, so you could still realize it's a good acquisition, just for pure financial stand-points, and we would happily look into this."
+Auto manufacturer in the United States facing a profitability decline.,Emily,Alex,"The client, an auto manufacturer in the United States, faces a profitability decrease over the past five years, dropping from 5% to 2.5%, while competitors' profitability increased. The interviewer tasks the interviewee with restoring profitability within the next two years.","Identify the root cause of the profitability decrease.
+Develop strategies to address the identified issues and restore profitability.
+Implement measures to sustain profitability in the long term.","Cost Analysis:
+Determine whether the profitability decrease is due to cost or revenue issues.
+Cost Breakdown:
+Analyze the breakdown of costs to identify areas of increase and decrease.
+Competitive Analysis:
+Compare the client's performance with that of competitors to understand industry trends.
+Strategic Solutions:
+Develop actionable strategies to address the root cause of the profitability decline.
+Risk Assessment:
+Evaluate potential risks associated with proposed solutions and mitigate them effectively.","Cost Analysis: Alex focused on determining whether the profitability decrease was caused by cost or revenue issues, leading to a detailed discussion on revenue trends and cost breakdown.
+Cost Breakdown: He delved into the breakdown of costs, particularly focusing on material costs, which represented a significant portion of the increase.
+Competitive Analysis: Alex compared the client's performance with competitors, noting the disparity in profitability trends and emphasizing the need to address the issue promptly.
+Strategic Solutions: He proposed investigating the increase in material costs and suggested breaking down material categories to pinpoint the exact cause.
+Risk Assessment: Alex highlighted potential risks associated with outsourcing production to China, emphasizing the need to consider factors such as quality, supply chain predictability, and geopolitical risks.","The profitability decline is primarily attributed to increased material costs, specifically auto parts. Further analysis revealed that auto parts accounted for the majority of the cost increase. However, the interview did not conclude with a definitive solution or recommendation regarding outsourcing production to China. Instead, it emphasized the need for additional data analysis and strategic evaluation to formulate a comprehensive solution.","The interviewee demonstrated strong analytical skills, logical reasoning, and structured problem-solving throughout the conversation. Notable strengths include clarifying questions, methodical approach, and consideration of various factors influencing the client's decision-making process. Improvement opportunities include initial framing of the problem and ensuring a more systematic approach from the outset. Overall, a commendable performance with room for refinement.","Interviewer: so your client is a auto biomanufacturing the United States ok and they are faced with in the last five years a profitability decrease their profitability has decreased from five to 2.5% well the competitors average rules from three point five percent to more than that nowadays yeah so we're at two point five and competitors are above three point five okay you've been hired to help them restore their profitability over the next two years or so okay how would you help them do that
+
+Interviewee: okay great question so couple clarifying questions first did our competitors profitability as decreased as well
+ 
+
+Interviewer: our competitors profitability has increased
+
+
+Interviewee: has increased to three point five
+
+Interviewer: from three point five to something that we don't know
+
+
+Interviewee:  okay so they used to be a three point five lower than us because we were at five
+
+
+Interviewer: yeah
+
+Interviewee: and they have increased their profitability while we have decreased
+
+Interviewer: that's right
+
+Interviewee: okay that's interesting it doesn't seem like it's an industry-wide problem right another question are we a regular auto manufacturer is this global a real luxury cars or just mass market
+
+
+Interviewer: we have all kinds of cars okay the brands within our manufacturer we do sell only in the United States
+
+
+Interviewee: okay so we're just in the united that sounds good so the first step that i would do to solve this problem is to find out if this is a revenue problem or a cost problem and if we have data on that we'd like to get that now just so I can focus on the right branch or I can develop my issue tree matter whichever you prefer
+
+
+Interviewer: okay we do have data on that so our revenues have increased from 21 billion to twenty two point five billion dollars
+
+
+Interviewee: twenty to twenty five okay
+
+Interviewer: while our costs have increased from twenty billion dollars to twenty two billion dollars
+
+Interviewee: okay so it does seem like a cost problem just to confirm that it is a cost problem how's our pricing our average price per car doing and I'm asking this because it could be that our revenues have increased because we have dropped prices increased volume sold and this raising cost is just to reflect the increase in cost to make more cars
+
+
+Interviewer: okay that makes sense our price has stayed the same from $30,000 to $30,000
+
+
+Interviewee: per average when I mix of products changed because maybe the average is the same but we're selling more sports cars for a lower price and
+
+
+Interviewer: yeah this question so not really no
+
+
+Interviewee: okay 
+
+Interviewer: the mix hasn't changed
+
+Interviewee: okay so we don't have a pricing problem which means that we don't have a revenue problem
+
+
+Interviewer: that's right
+
+Interviewee: so we need to explore costs better and what I do now is to understand the cost structure of this company and get a cost breakdown to see which cost has increased okay and I see here there are direct costs and there are indirect costs I believe this is how most manufacturers would categorize those costs we think the direct cost are fixed and variable costs I believe all indirect costs are fixed and yeah I'd like to know the cost breakdown so within variable that would there would be parts there would be energy there'd be label for manufacturing and perhaps yeah sales would be indirect and then within fixed costs there is the factory right is there a new direct cluster and me see 
+
+
+Interviewer: okay well that's pretty close but we do have a cost breakdown that our client use 
+
+
+Interviewee: okay so you can use the face
+
+Interviewer: yeah that's okay we can go with materials costs okay so labor costs factory related costs okay and other costs for the indirect costs
+
+
+Interviewee: okay great so no energy
+
+Interviewer: yeah
+
+Interviewee: okay sounds good and what what happened to this costs
+
+
+Interviewer: okay so material costs have gone from 50% of total costs to 52% of total costs okay labor costs has stayed stable state has stay stable and twenty percent 
+
+
+Interviewee: twenty before and 20 percent afterwards right and of course the total has increased because total plus CSS right
+
+
+Interviewer: and both factory costs and indirect costs have decreased from 15 each to 14 each 
+
+
+Interviewee: ok so it went from 15% of 4% okay that sounds good so just to get a it seems like the problems on materials okay I just want to tie back to the two billion plus increase just to see how much of that was caused by material so before I had fifty percent of twenty billion so we had ten billion dollars yeah and now we have 52 percent of twenty two didn't so if this were fifty percent of twenty two would be eleven billion dollars yeah now I have two percent of twenty - which is 0.4 t four billion right so 1% would have been points 22 billion so yes point forty four so now material costs is at 11.40 four billion right so we have increased two billion total costs and we have increased one point forty four billion so that's a 75% mature costs represent roughly 75% of the total cost increase okay so I'm gonna focus on materials because it represents most of the costs increase because it's the line that has gained the cost line that has gained most share and then if you can't solve the cost problem in the profitability problem through material costs we're gonna come back and work on labor indirect and fixed
+
+
+Interviewer: alright to make sense okay what do you want to do
+
+Interviewee: so I wanna investigate	why material costs have increased
+
+
+Interviewer: and what do you think 
+
+Interviewee: that's a good question so let's think of the possibilities here why has material costs increased one clarifying question that I'd like to ask is do we know if our competitors material costs have increased as well
+
+
+Interviewer: we don't really know that no
+
+Interviewee: okay because that would be really informative information to have because they probably buy the same parts from the same supplier so what I would do here is break down materials into the different types of materials so we have steel we have outer parts we have tires glasses like electrics all this stuff we buy and I would try to understand which one has increased and then I'd ask why again so say if steel are we purchasing different types of C or from different suppliers or what's going on but the first step would be to understand which category of purchased parts is increased
+
+
+Interviewer: okay alright we do have data on that actually so our materials are broken down into auto parts steel plastics and others
+
+
+Interviewee: okay
+
+Interviewer: so you were your vehicles yeah and as a percentage of materials Auto Parts has increased from 60% to 65%
+
+
+Interviewee: as a percentage of materials
+
+Interviewer: yeah
+
+Interviewee: so we're talking about a eleven point forty four billion yeah okay auto parts went from 60 to 65%
+
+
+Interviewer: that's right okay steel and plastics both decrease from 15 to 13 percent okay and other costs has decreased from 10 percent to 9 percent
+
+
+Interviewee: okay that's interesting so it seems like it all comes from auto parts we can't know for sure unless we do the math so I'm gonna do the math really quickly we had sixty percent of 10 billion we used to purchase six billion in auto parts and now we're purchasing 65% of 11.40 for doing okay tough math to do here so let me divide this into fifty percent plus ten percent plus five percent 50 percent of 11.40 for is well 50 percent of point four four is points 22 and fifty percent of 11 is five point five so five point five plus points 22 is 5.72 that's 50% of the total bill
+
+
+Interviewer: that’s right
+
+Interviewee: then 10 percent is point 14 or 144 I'm just gonna let's do the exact math here okay and then five percent is ten percent of the fifty percent so it's zero point five seven two so so me all up we have six 2 plus 4 is 6 plus 7 is 13 7.36 is that right
+
+
+Interviewer: yeah that right
+
+Interviewee:  okay so we went from six billion to seven points 36 which is an increase of one point 36 one point 36 billion so not all costs from materials increased come from auto parts but the vast majority of it we'll compare one point 36 billion to one point forty four billion total material increase so let's focus on auto parts we need to understand why outer part costs that's gonna do we have any information on what happens to our suppliers the types of parts we buy or something in supply chain
+
+
+Interviewer: not at all what do you think
+
+
+Interviewee: okay so let's raise some hypothesis on what could have happened you either will buy more parts and some extent would have to buy more parts per car because the materials cost has raised more than the total revenue right so that's why we're having profitability problem or we'll pay more per part on average do we know which one of those who is the most responsible
+
+
+Interviewer: we don't know what I'd like to see how about this is both
+
+
+Interviewee: okay so cool so if we're purchasing more parts per car maybe our mix of parts has changed or we have new products which is another source of mix changing but then it's we caused it instead of the orchids or the waste is hired in our manufacturing chain right now if the dollar per part has increased so if we're paying more per part that's either because we have switched to more expensive suppliers or that happened at same suppliers and if it did happens in the same suppliers then either they're making more money so their margins up or their costs are up and they're sending their costs to us
+
+
+Interviewer: okay why would I be making more money
+
+
+Interviewee: perhaps because I'll give you some ideas within here maybe they have bought one another and now they're more concentrated and we can really bargain with them or they have created switching costs so we can't change suppliers maybe the tooling of the equipment or they have patents of certain parts designs it could also be that we are getting really poor in negotiation so maybe we've changed our purchasing force or our CP oh and our guys are not doing a really good job negotiating these spots
+
+
+Interviewer: okay all right I can believe that okay now as it turns out the problem is that workers of auto parts manufacturers in the USA have become recently unionized okay and this has caused a large increase in labor costs with salaries and benefits increase
+
+
+Interviewee: for our suppliers
+
+Interviewer: for all USA manufactures
+
+Interviewee: our suppliers
+
+
+Interviewer: okay no just our suppliers but all suppliers of auto parts in the USA
+
+Interviewee: okay so this happened to our competitors as well
+
+Interviewer: it did but other players in the market have all forced the production of their auto parts to other countries okay and we're currently considering outsourcing the production of our auto parts to China okay what factors would you take into consideration to decide whether or not this is a good idea
+
+
+Interviewee: okay so just see if I understand our materials bill has increased because our suppliers have higher costs this happened with all suppliers in the chain in the u.s. yeah and we're going to consider it who should buy these parts in China are we considering buying all the parts or just some of them
+
+
+Interviewer: as many as needed to bring our profitability back to find myself 
+
+
+Interviewee: okay and you need to make sure that it's you want to know how would I decide how would I have declined the size if we should purchase the separts in China all right okay sounds good can can I take a minute to think yeah take your time okay so I would 2:05 different factors to see if we should outsource or actually import parts from China instead of buying them from American suppliers the first one is if it's actually going to be cheaper if it's not going to be cheaper in China for some reason I don't want to do that yeah the second one is if it meets the quality standards that we expect okay because otherwise we're gonna lose the quality of our product and this is probably not acceptable yeah the third thing is can we have a predictable supply chain if we bring parts from China all right it doesn't make sense to get cheaper products but then have manufacturing more expensive or having the factory stop working and so on yeah the fourth factor I'd look at are other risks that are not considered in the previous three buckets and finally if there aren't better alternatives because maybe all of this box is checked for China but then there are better alternatives so let me explore in a bit more detail regarding Cheaper are the parts going to be cheaper the way I'd answer this question would be to answer three questions the first is figure out the cost of the parts there okay in China the second step would be to consider what are the fixed costs in developing new suppliers so it will cost something to have them make the parts and learn to make our parts at our quality standards and the third thing is what is the cost to bring parts from China to the US and then there's all the shipping parts the tariffs the exchange rates and okay okay also there's a fourth factor which we didn't put here but we will probably need some operation there some people checking suppliers and visiting them as well okay regarding quality I would try to understand what is the manufacturing expertise of these suppliers what are the quality controls that they do it can be trust them and then also I'd like to see prototypes of our parts just to see if this actually happens in real life or if it's all theoretical on paper they're really good but you know yeah okay regarding the predictable supply chain to look at three factors it as well the first is the import issue how is the process to import parts from China how predictable is it how much leads time do you need to order these parts and can we work with these types of lead times okay so assuming the supply chain is predictable what are the steps and the times of the process the second factor is geopolitics are there geopolitical risks that can make us you know not receive parts for a whole month and then what should we do about it okay yeah the dividuals closed down the business and the third thing is something that would decrease the risk in supply chain which is inventory how much should we raise inventory how much can we raise inventory to mitigate these risks and this uncertainties and if so how much is it gonna cost and again this brings us back to the cheaper points up there okay okay now some other risks to consider one of them is intellectual property can we trust our blueprints to these Chinese suppliers I know some of them have had trouble and other industries in the past are we willing to risk our designs with them and if so which designs okay and this enters a broader picture which is probably the next step of this analysis if we choose to send our parts of China which parts probably not all of them you have to make sense but that's our next step the second risk that I would emphasize here is the media or the public perception we're going to be responsible for you know taking drops out of America having some suppliers bankrupt we use Chinese parts in our cars is it possible that we will lose market share doing this I know our competitors are doing but maybe we're gaining some some sales because we're you guys who you know trust American suppliers and give Americans jobs and so on we need to try to size the impact of that and the third class of risks that I'd look at here is the operational risk so and this includes supply chain demand all the other things but is it possible that we cannot get parts in a certain situation because of language barriers is it possible that a certain event causes the port's not to work well so all the predictable things that we we had looked at in the quality in these five key factors what if they become unpredictable these are risks okay okay and finally I'd look at alternatives so we can develop American suppliers to make them cheaper again maybe renegotiate with the Union because if they have if they have cost our our parts to be too expensive to the US it doesn't really matter that they have higher sellers if through then they get fired and yeah or make them cheaper in other ways maybe integrate the supply chain better teach them how to be more efficient as well another alternative is other countries their Southeast Asia there's Mexico there's a ton of other countries that could be viable and perhaps even cheaper than China or with less risks and then the other one is are there certain parts that we can internalize and manufacture them within our company so this could make them cheaper more predictable and they try to evaluate these alternatives just to see if there's any one of them that's better than China
+
+
+Interviewer: okay all right that's it that was pretty good okay I'm not gonna asking for a recommendation here because I didn't give you any any datum of any kind yes so you can't really say anything but they feel really liked your analysis I guess that I think you did too preservation he might come back to with some to him with some data in the future wait for it
+
+
+Interviewee: okay sounds good do you think it did a good job in this case yeah he did what do you think it did best what do you think I could have done better
+
+
+Interviewer: okay so definitely the best point in your analysis were that you in the second question you raised some really good points and what you would consider
+
+
+Interviewee: the second question was why materials increased
+
+
+Interviewer: yeah I'm gonna go the third question then why what we should consider when outsourcing your bike to China when deciding whether we should or not although some really good ideas here were developing new suppliers would be would have fixed costs in China and that's something that very few people would think of another month was predictability of the supply chain yeah and even so that was a good idea in itself and having that impact inventories was something that hardly anyone would think of
+
+
+Interviewee: okay don't worry those are real good points and one thing that I wished you did and it helps that I do the project out of manufacturing probably yeah guys don't expect everyone to think of all these issues
+
+ 
+Interviewer: yeah but at the same time you can always learn from this and it won't work all for our Pro stability cases regarding automobile companies Bennett you can always know from now on that predictability in the supply chain allows you to have lower inventories and unpredictable and unpredictable supplied supply chain will not have you have higher venturi yeah that's something you can know for all cases and it works for all other issues
+
+
+Interviewee: yeah any manufacturer even McDonald's even McDonald's right yeah the App Inventor ease of burgers and Brad's and so on
+
+
+
+Interviewer: yeah and still like for all other issues so we're talking let's see you have financial costs because you're out for a C to another country your problem that probably means that you either have risks that currency risk so your currencies gotta go up or down and that might change your costs or you're gonna have hedging costs to prevent that right anyway you're gonna have that in any case where you're doing something in one country and another yeah regardless of whether you're outsourcing your production or you're starting to arrange
+
+
+Interviewee: my name when when its re-entry
+
+Interviewer: yeah that's right and one thing I wish to different was in the beginning of the case I asked you to help me solve the client's problem and you went straight into and usually what's happening yeah you know I wish to unset 
+
+
+Interviewee: I messed up
+
+Interviewer: yeah yeah well that's okay like that's what most people do and it's not the end of the world but I would have been much happier to have you do it differently and say well so the first thing I want to do is figure out what their problem is but then afterwards I want to come up with options of course it depends on what the problem is but of course if I can't solve this specific problem I'm going to come up with solutions and all other ends of my profitability tree yeah something like that
+
+
+Interviewee: yeah so I'm gonna do it right now so you're gonna help increasing improving the profitability step number one is to find the root cause of what's causing this profitability decrease so if it's a cost problem which cost is right probably it's a revenue problem is it price or volume and in which product line or rich region is causing the problem yeah step two is to find solutions to that root cause and if we can't find any solutions to that root cause what other drivers can we work on to improve the profitability problem and then in step three would be to try to quantify each solution and see how much it will help solve the profit problem and also think from a more qualitative strategic level if the solution makes sense around because maybe it has a really high profit potential but it's not gonna work in real life well that's that's how I should have done the first question"
+"Needle Needer, a medical device manufacturer facing a 5% market decline due to regulatory changes, seeks strategies to maintain profitability in its blood draw needle segment.",Jenny,Matt,"Needle Needer is a medical device manufacturer specializing in supplying blood draw needles to laboratories. The company operates in a duopoly market with one competitor, and faces a market decline of approximately 5% due to regulatory changes.","Identify strategies to maintain profitability in the face of declining market demand.
+Assess potential approaches to mitigate the impact of federal healthcare regulations.
+Explore alternative avenues for revenue generation or cost reduction.","Pricing Strategy: Evaluate the feasibility of adjusting prices to maintain profitability.
+Cost Structure: Analyze the variable and fixed costs associated with needle production.
+Market Expansion: Explore opportunities to expand into new customer segments or geographical markets.","Pricing Strategy: Matt suggests exploring the possibility of reducing prices to gain market share, given Needle Needer's lower variable costs compared to the competitor.
+Cost Structure: He emphasizes the importance of analyzing the cost structure to identify opportunities for cost reduction, particularly in manufacturing processes.
+Market Expansion: Matt proposes considering alternative revenue streams or market segments to offset the decline in demand for blood draw needles.","Matt suggests prioritizing cost reduction efforts to maintain profitability, leveraging Needle Needer's lower variable costs compared to its competitor.
+He also recommends exploring creative strategies such as market segmentation and product bundling to offset the decline in market demand.
+","Jenny provides constructive feedback to Matt, highlighting his strengths in structuring the case, analyzing data, and proposing solutions.
+She encourages Matt to maintain an open mind, consider alternative strategies, and provide more detailed insights during the case discussion.
+Overall, Jenny acknowledges Matt’s solid performance and offers suggestions for improvement in future case interviews.","Interviewer: All right. You ready?
+
+Interviewee: Yeah
+
+Interviewer: Good. So our client today is a company that is a medical device manufacturer. The company we're going to call the very fancy name of needle needer.
+
+
+Interviewee: Okay 
+
+Interviewer: And needle needer manufactures a large variety of needles for different medical applications. We're going to focus on one of their segments today because something is changing in their market. This segment is the segment where they supply blood draw needles to laboratories. And they manufacture and they sell so they do the full integrated supply chain for that. They have a market that is about 200 million units today, and in total there are two competitors. Needle needer and one other competitor that share the market in a duopoly. Now, what's changing in the market is that federal health care regulations are coming in that are mandating a different schedule of frequent blood draws for chronic patients, so they're gonna move this down on average about five percent of the market so the demand rate is going down by five percent, and this will decrease blood from let's say somebody who's chronic would be 12 times a year they'd move down to 11 or 10 times a year. Of course, there are other segments of the market but in aggregate, five percent down and it's because of the frequency of the blood draw mandates. Our client, this is an important part of their business, they don't want to lose profits but they're willing to get them in different ways and so our job is to be creative about how they can maintain their current profit with these health care regulations that are coming down. Do you have any questions about the background?
+
+
+Interviewee: Yeah absolutely. Do we expect that the five percent is steady state like that it's going and if so is it going to go to that in like the next year or is it going to be a progressive decline?
+
+
+Interviewer: Great. So the reason that we know about this is that it was actually mandated a few years ago, but it's actually coming into effect next year, so now that we believe it's going to be realized, it should be realized in one year and it should be the new steady state.
+
+
+Interviewee: Okay. And do we know if the since it's already been mandated previously, has the competitor already taken action on the basis of that or do we not know?
+
+
+Interviewer: So far, nothing has changed in our market, so we are where we were, but the question is where are we gonna go? 
+
+
+Interviewee: Okay, sounds good.
+
+Interviewer: Good.
+
+Interviewee: So it sounds like we want to know how they can maintain their profitability in a shrinking market.
+
+
+Interviewer: Yup
+
+Interviewee: So is it all right if I take a minute or two to put together a structure for that?
+
+
+Interviewer: Do all the time you need.
+
+Interviewee: All right. Okay. So the profitability is going to be a factor of four different variables.
+
+Interviewer: Okay.
+
+Interviewee: So, first price clearly. Then the variable cost, so how much cost are they spending on a unit basis, and then obviously the volume and the fixed costs. My sense is that those first two are going to be the most important. From a fixed cost standpoint you know, they're they're already creating 200 million units and so I would expect that they'd be operating at pretty good economy of scale in a sense since that's quite a good volume already and you know an incremental volume increase won't dramatically change the fixed cost, so I'd expect that to be stable and not much to be done there unless there's some technological advances that can be done, which we don't know. The volume if we're the volume is going to be pretty much the same and we're talking about a five percent decline, so I would focus on the price and the variable cost, and there on the price what we would want to know is how does their price compare to the competitor's price. And so is that something that you can provide?
+
+
+Interviewer: In a second.
+
+Interviewee: Okay. 
+
+Interviewer: Tell me everything you want first.
+
+Interviewee: And then and then at a variable cost level and so related to price we would want to know both the price but we'd also want to know the profitability of the competitor.
+
+
+Interviewer: Okay. 
+
+Interviewee: And so to do that we would also need to know roughly their if we assume their fixed costs are roughly equal to our own, then we want to know basically what is their price and what is their variable cost. Then we would also need to know our own variable cost of of needle needer. That alliteration is getting me. Yeah but so that we could understand how does our cost compare to theirs, because essentially the two main strategies will be either to drop our own costs, or to lower our price in order to gain market share.
+
+
+Interviewer: Okay. 
+
+Interviewee: And so in that with those being the two levers, yeah.
+
+Interviewer: Okay, so now you can ask for data.
+
+Interviewee: Okay. 
+
+Interviewer:  By the way you said all the things that it could be, but if you had to pick one, what would you say it would be? It's the only one you get to pick to go after, what is it?
+
+
+Interviewee: So my guess would be that if these two you know two companies are controlling most of the market that their price are roughly similar, and so and so that I would be most interested in understanding if the cost structure is different underneath it, so it seems like the biggest opportunity would be to understand if the price can be reduced.
+
+
+Interviewer: Okay. 
+
+Interviewee: And to gain market share.
+
+
+Interviewer: Yeah great, all right good. So what do you want to look at first?
+
+
+Interviewee: So first I would like to know, is my assumption that both entities are pricing the needles at roughly the same amount?
+
+
+Interviewer: That's a fair assumption.
+
+Interviewee: Okay. What is that price?
+
+Interviewer: Yeah, you bet. And so it's two dollars per needle.
+
+Interviewee: Okay. And then do we know the the variable cost of our client?
+
+
+Interviewer: We do, yeah. So we we looked at the way that they source, they actually source differently than we do, they outsource everything from beginning to end. Their price per unit is one dollar and forty cents.
+
+
+Interviewee: Okay, so that's for the competitor is one dollar and forty cents. And then our own and that's variable cost there. And for needle needer itself, the variable cost there.
+
+
+Interviewer: Yes it's one dollar and twenty cents.
+
+
+Interviewee: So this is a good starting place, the fact that our costs are lower than theirs, which suggests that you know before we think about trying to reduce our own costs, which we haven't looked into yet but is still an option, it suggests that if we were to drop the price we would be able to, that they would lose profitability and eventually you know lose their margin before we would
+
+Interviewer: Okay. 
+
+Interviewee: And so that seems like the first area that I would want to look into.
+
+
+Interviewer: Okay, let's do it. So let's assume in a duopoly and there's a lot of assumptions here so just follow along with me that if we wanted to drive them out of the market, we would be interested in lowering the price, but we actually want them out entirely. So I want you to tell me if we get them out of the market, where do we need to price and what profit do we get in that new situation versus where we are today.
+
+
+Interviewee: Okay and can we assume that they are looking at this, this needs to be a profitable venture for the competitor, or you know instead of like they might subsidize this for other business reasons.
+
+
+Interviewer: Yeah, fair question. Let's assume that once they start losing money they would be out of the market.
+
+
+Interviewee: Okay so we can assume that they would they would start losing money if the price went down to a dollar forty, so I'm gonna, can I take a minute to structure it around that assumption?
+
+
+Interviewer: Sounds Good.
+
+Interviewee: Okay. 
+
+Interviewer: As you're going through this why don't you walk me through what you're doing on your paper.
+
+
+Interviewee: Okay. So I'm putting together an equation for profitability.
+
+
+Interviewer: Okay
+
+Interviewee: So which I've used here is margin, so m for margin to indicate that. So the equation would be what is the price, and then minus the cost and then times volume there, and you know cost would be you know sum of, so if we break cost out then it would be and we'll see what we can how we can simplify this in a second but, if this is price per unit minus the variable cost. Variable cost, and then that's times volume and then...
+
+
+Interviewer: Great, let's assume that fixed cost is the same between them.
+
+Interviewee: Yeah.
+
+Interviewer: So you can remove that from the equation.
+
+Interviewee: Okay right. So then you know we're talking about the price change here, and so we're talking about going from today... So today we make you know so two dollars minus 120, so we make 80 cents on every needle.
+
+Interviewer: Okay.
+
+Interviewee: And in the future state maybe a dollar forty we would make 20 cents on every needle. So this is going so our our marginal profit is going to decrease by it's going to drop by 25, well it will go to 25 percent of what it is today.
+
+Interviewer: Great. 
+
+Interviewee: But our volume if we assume that we're gonna take the whole market which, is it safe to assume that we have fifty percent of the market today?
+
+
+Interviewer: We don't actually, we have more, we have seventy percent.
+
+
+Interviewee: Okay okay, so if we have seventy percent of the market today, which is two million and we're going to a hundred percent of the market, then we would calculate that which...
+
+
+Interviewer: So 70% is - the 200 million is the total market - so we have 70% of the 200 million.
+
+
+Interviewee: Okay. So we have 70% of the 200 million so we'll be going to 100% so that is 200 million. So if we calculate 70% of the 200 million is what we have today, so today this is the volume we're talking about. Today we have 140 million units and that will be going to 200 million. And so then if we're talking about and so you said what's the new price was one of the questions.
+
+
+Interviewer: New profit.
+
+Interviewee: And so a new price would be $1.40 and then so moving on to the new profit, so then today we're making 80 cents and we're selling 140 million of those and then in the future state we'll be making 20 cents and selling 200 million of those.
+
+
+Interviewer: Let me ask one more question.
+
+
+Interviewee: Yeah. 
+
+Interviewer:  In the future will there be a 200 million in the market?
+
+
+Interviewee: You're right, there is a five percent decline in the market, so we'll have to deduct this from, so that will be 190 million. So that's... well let's see. 28, so 140 minus 28 is 112 million.
+
+
+Interviewer: Okay.
+
+Interviewee: And this is dollars that we're making today, roughly how much we're making today.
+
+
+Interviewer: Pretty nice huh.
+
+
+Interviewee: Yeah and then the future state, 190 times20 cents that we're making and so that is 38 million. Let me just make sure that this is right math here. I think that is roughly right.
+
+
+Interviewer: Yeah looks good to me.
+
+Interviewee: So yeah our new our new profit would be 38 million.
+
+Interviewer: Okay, what do you think about that?
+
+
+Interviewee: So that's about a third of what we were making today. The and so I'm just thinking through the well what I want to compare it to is what is the profit if we did nothing. So that means if we assume both we'll both lose five percent in the market.
+
+
+Interviewer: Yeah.
+
+Interviewee:  Then so I'd take so I'd take the 80 cents and multiply it by 140, minus that five percent so the 95 percent.
+
+
+Interviewer: Just take five percent off of the 112, how about that.
+
+
+Interviewee: That works better. And so that would be you know we're talking about five or six million off of that. 
+
+
+Interviewer: Okay.
+
+Interviewee: And so in a do-nothing scenario we would make you know let's say 106 million, assuming that the competitor also did nothing.
+
+
+Interviewer: Okay, so what should we do?
+
+Interviewee: Well I think from a profitability standpoint we would we would not want to do a price war with them.
+
+
+Interviewer: Okay, I would agree.
+
+Interviewee: Yeah. 
+
+Interviewer: What else can we do?
+
+Interviewee: So if we're trying to we're you know we're only trying to make up about six million dollars here, which if we think about our reducing our variable costs, so if we're selling it's we have we're selling 140 million units today, so then I would want to know is how far would we have to reduce our cost in order to hit the 112 million.
+
+Interviewer: Great. 
+
+Interviewee: Should I go ahead and do that?
+
+Interviewer: I'm interested if there are other options too, before we calculate that one, tell me if there's other choices that we have.
+
+
+Interviewee: So we talked about price and that doesn't seem like a good option. We had talked about fixed costs and whether we can change that, it sounds like we both have the same fixed costs there, even though they're choosing a dramatically different way of sourcing the product so it doesn't seem like that's like there's an alternative that's much cheaper from that standpoint. From a volume standpoint, you know, if the market is shrinking by five percent does it have to shrink equally across both of us or and so I mean one of the places where I go with it is are there certain customer segments that we work with or that will not be as affected by this that we could focus on or that we can double down on so that five percent is being lost with the competitor versus us.
+
+
+Interviewer: I like the way you think, what else?
+
+
+Interviewee: I'm not sure.
+Interviewer: Could we raise our price?
+
+Interviewee: Yeah we could. If we raised our price, we might expect that we might lose some market share, so it would have to be a balance between those two of how much market share we would expect to lose, and if there's only two choices and both are well established players, needle needer and the other, then I would worry and if right now and historically we've been pricing them at the at the same, I would worry that if there was all of a sudden a price difference that it would be an easy switch to the others and I mean that thing I'm thinking about from a customer standpoint is like what is the cost of switching for medical needles. I don't I wouldn't guess that there's a ton of medical equipment that is needle specific in the sense of like oh we need to have these needles because we have this other equipment that is based on that, so my guess is that it wouldn't be that the cost of switching for a customer would not be huge and so that if there was a price difference they would go with the lower price especially if they knew that the other player was a big established player as well. So I would be hesitant to do that, unless we're talking about also the option of trying to think about how to expand the market, Which I don't know if that's kind of within the...
+
+
+Interviewer: Anything's within the scope.
+
+Interviewee: Are there areas where you could think about expanding that market where it's not currently being utilized or at the frequency. But another, I wonder if there's other ways of like bundling where and maybe that's a way to gain market share too, if if we're like oh we'll sell you packs of, I don't know what the packs would be, say a thousand and because it comes in a thousand, we'd have to understand what what would be of value to the customer but if we could sell it to sell them a thousand, just as an example, at a lower price per unit, but in doing so gain market share then that might be a way of doing it, so there might be some creative ways of bundling or packaging it.
+
+
+Interviewer: Great.
+
+Interviewee: That could be interesting.
+
+
+Interviewer: I think I'm ready for a final recommendation. We've thought about a lot of things, tell me what you would do in light of the changes that are happening in needle needers market.
+
+
+Interviewee: So I mean, the first thing I would look at is whether we can easily reduce the cost. I think my guess is that since our cost is lower than the competitors that there maybe hasn't been a ton of pressure internally to keep costs low because it already felt like it was low and we're making more than the competitor. So my sense is that there probably would be some opportunities there based on that. So I would look there first and then and if that doesn't prove fruitful, then I would look outside to understand the customers more and if there's opportunities to either expand the market or to add more value to them in a way that would allow you to gain market share.
+
+
+Interviewer: Great, any next steps that you'd pursue?
+
+Interviewee: So I would do a cost analysis around the variable costs and understand what the different line items are there and maybe if there's, from what I think you said, needle needer produces in-house, and so if they have different manufacturing locations there might be a relative cost positioning analysis where you can see kind of what's the best in practice across our different locations and understand you know if we can duplicate those savings across the rest of the company.
+
+
+Interviewer: Great. Okay, relax.
+
+Interviewee: All right.
+
+Interviewer: All right, so do you want to give yourself feedback or do you want me to do it first? You know how sometimes you get through a case you kind of notice as you're doing something that you want to call out.
+
+
+Interviewee: I think the biggest thing in terms of that is getting a little tunnel vision around around the framework and and not thinking more broadly about what some of those opportunities are until you pushed me a bit. And so I think that that felt like the biggest thing of being more open-minded, you know even at that point.
+
+Interviewer: Cool. Yeah. Well, overall I thought you did a good job, which is why I didn't make you do bonus math. You didn't have any math errors, there weren't any issues, otherwise we could have done some extra math, I would have given you a second chance with that, but I will poke on a couple of things. So, first of all I thought your opening was really good. I thought that you had a pretty confident grasp of the subject, you didn't seem afraid of the problem, you didn't seem nervous, your clarifying questions were specifically intended to reduce the complexity of the problem which I always love to see, when people want to add in extra analysis, I always get worried about that. So for example you asked, can we assume that this has already changed, or is this the steady state, so rather than saying you know, hey could we look at this in three different phases, you were trying to say can we just look at this once and figure out a simple way? So I really liked that and I thought that that was an important nuance at the beginning of the case. The fact that your hypothesis was reducing the price at the end of your structure, I'd want you to just call that out directly, especially in a BCG case, because you're going to be now testing that hypothesis so it's going to be incredibly important. And just for your structure. Your structure, I didn't time it. We'll look back at the video and the video will actually have the timing on there, but my guess is that you took too little time and you could have actually built out your structure in a more robust way to get away from that tunnel vision that you had inside the case. So, if you had taken the full two minutes and you had built the second level that you verbalized on paper, I think we could have referred back to that throughout the case a little bit better.
+
+
+Interviewee: Yeah, makes sense.
+
+Interviewer: And then as we went through the data I was a little surprised when you asked for the competitor data first and I was worried that you weren't going to ask for ours, you you got the competitor data after that and one thing that you did really well there that was you did a few times but it was inconsistent throughout the case, is that you gave me commentary as you were receiving the data, or as you were coming up with insight so there you said, I really like the fact that we're lower than the competitor this puts us in a good cost position to start with, and so starting with and layering on those kind of insights were really valuable. And there were a couple of other times that you didn't do it that I was looking for that a little bit more, so for example, when we said you kind of said, hey you know we are going from 80 to 20, we're going to divide it to 25%, and then if you look at the numbers from 70% up to 100%, or really effectively up to 95% of the market, there's no way before you do any calculations that that's going to outweigh that decrease, and I think you knew that but you didn't say anything about it. Right, so you kind of were going through the mechanics to prove out something that you already knew and you could have just impressed me by by saying what you knew in the first place.
+
+Interviewee: Yeah.
+
+Interviewer: The final piece is around the creativity. So I asked you at the end, what else can we do? The answer to this is no, we don't do a price war. Bad idea. Yeah. But then with all the other things you started out with again one idea, but that's where the tunnel vision kind of came in, so I would recommend that you write down some of your ideas, because I could tell that you couldn't remember when we got up to about three, which ones you'd already said and which ones you hadn't said, and it was a little difficult to go sideways or deeper or beyond the that level. You stuck with me, you had a great attitude about it so that was fine, but I would have loved to have seen a little bit more detail around some of those creative points.
+
+
+Interviewee: Yeah.
+
+Interviewer: And just to see you keep pushing on some of the ideas, how it could be possible or what would be feasible. Your final conclusion was really good, you just didn't say next steps so always I would say that, but other than that, I think the main things were just building out that structure to be more robust, because in the BCG case you're gonna have to follow it more, and then in that creativity really chronicling exactly what you're doing. All right. Thanks again for going through the case with me.
+
+
+Interviewee: Absolutely."
